@@ -3,4 +3,3 @@ The computer game project named Frank's Stories is developed by the Chip Games' 
 - 3D and 2D art
 - SFX and music
 - Animations
-- Script writing
