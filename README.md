@@ -1,5 +1,5 @@
-The computer game project is developed by the Chip Games' working team.
+The computer game project is developed by the Savga Softworks' working team.
 - Unreal Engine coding
 - 3D and 2D art
-- SFX and music
+- VFX, SFX and music
 - Animating
