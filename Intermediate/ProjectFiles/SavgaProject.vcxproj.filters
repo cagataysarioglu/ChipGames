@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SavgaProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2AA6FB8E-108A-4AFC-940B-F89239879148}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SavgaProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SavgaProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{6B1378CC-96F2-4D8E-994C-F1D8A77702A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SavgaProject">
+      <UniqueIdentifier>{DF86EC41-C0A1-40B6-8411-FE2E7FF42792}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SavgaProject\PlayerCharacterBase.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\PlayerCharacterBase.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SavgaProject\SavgaProject.Build.cs">
+      <Filter>Source\SavgaProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SavgaProject\SavgaProject.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\SavgaProject.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

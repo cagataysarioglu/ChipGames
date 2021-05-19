@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SavgaProject",
+			"Path": "D:\\GitHub\\SavgaProject\\Source\\SavgaProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SavgaProjectEditor",
+			"Path": "D:\\GitHub\\SavgaProject\\Source\\SavgaProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
