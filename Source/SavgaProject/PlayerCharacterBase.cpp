@@ -2,6 +2,8 @@
 
 
 #include "PlayerCharacterBase.h"
+#include "SavgaSaveGame.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 APlayerCharacterBase::APlayerCharacterBase()
@@ -30,5 +32,38 @@ void APlayerCharacterBase::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+	InputComponent->BindAction("SaveGame", IE_Pressed, this, &APlayerCharacterBase::SaveGame);
+	InputComponent->BindAction("LoadGame", IE_Pressed, this, &APlayerCharacterBase::LoadGame);
+
 }
 
+void APlayerCharacterBase::SaveGame()
+{
+	// Create an instance of save game class
+	USavgaSaveGame* SaveGameInstance = Cast<USavgaSaveGame>(UGameplayStatics::CreateSaveGameObject(USavgaSaveGame::StaticClass()));
+	// Set the save game instance variables equal to the player's current variables
+	SaveGameInstance->PlayerLocation = this->GetActorLocation();
+	SaveGameInstance->Health = this->CurrentHealth;
+	SaveGameInstance->HealthPack = this->HealthPack;
+	SaveGameInstance->Key = this->DoorKey;
+	SaveGameInstance->QuestItem = this->QuestItem;
+	SaveGameInstance->QuestText = this->QuestText;
+	// Save the save game instance
+	UGameplayStatics::SaveGameToSlot(SaveGameInstance, TEXT("SaveSlot"), 0);
+}
+
+void APlayerCharacterBase::LoadGame()
+{
+	// Create an instance of save game class
+	USavgaSaveGame* SaveGameInstance = Cast<USavgaSaveGame>(UGameplayStatics::CreateSaveGameObject(USavgaSaveGame::StaticClass()));
+	// Load the saved game into the save game instance variable
+	SaveGameInstance = Cast<USavgaSaveGame>(UGameplayStatics::LoadGameFromSlot("SaveSlot", 0));
+	// Set the player's properties from the saved game file
+	this->SetActorLocation(SaveGameInstance->PlayerLocation);
+	this->CurrentHealth = SaveGameInstance->Health;
+	this->HealthPack = SaveGameInstance->HealthPack;
+	this->DoorKey = SaveGameInstance->Key;
+	this->QuestItem = SaveGameInstance->QuestItem;
+	this->QuestText = SaveGameInstance->QuestText;
+	
+}
