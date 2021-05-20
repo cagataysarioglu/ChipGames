@@ -6,22 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381b0bb-fe72-405d-9410-97d0169ce1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SavgaGameInstance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SavgaGameInstance.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SavgaSaveGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SavgaSaveGame.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/SavgaProjectEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/SavgaProjectEditor.target" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/SavgaProjectEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/SavgaProjectEditor.uhtmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.gen.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SavgaProject.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SavgaProject.init.gen.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response" afterDir="false" />
@@ -292,7 +285,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621416232023</updated>
       <workItem from="1621416234611" duration="2064000" />
-      <workItem from="1621514236110" duration="11537000" />
+      <workItem from="1621514236110" duration="11837000" />
     </task>
     <servers />
   </component>
