@@ -6,7 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381b0bb-fe72-405d-9410-97d0169ce1ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" afterDir="false" />
@@ -285,7 +284,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621416232023</updated>
       <workItem from="1621416234611" duration="2064000" />
-      <workItem from="1621514236110" duration="11837000" />
+      <workItem from="1621514236110" duration="11869000" />
     </task>
     <servers />
   </component>
