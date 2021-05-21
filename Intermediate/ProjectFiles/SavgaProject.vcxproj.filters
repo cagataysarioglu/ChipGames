@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SavgaProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2DC64F59-E4EB-4574-A9FA-91072D5C691C}</UniqueIdentifier>
+      <UniqueIdentifier>{9365D26D-35F7-4498-85D7-14C9D7CC1075}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SavgaProject.Target.cs">
       <Filter>Source</Filter>
@@ -15,7 +15,7 @@
     <None Include="..\..\LICENSE" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B64B815D-25B6-4CC1-8767-BF8653C820DC}</UniqueIdentifier>
+      <UniqueIdentifier>{654E51CF-D6DF-47D4-9880-9CFB1D98D00E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,12 +33,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SavgaProject">
-      <UniqueIdentifier>{8BA13442-A625-4634-B220-E8E3350F285A}</UniqueIdentifier>
+      <UniqueIdentifier>{F395CF03-57D7-47FF-8AC3-1D47032F1783}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SavgaProject\PlayerCharacterBase.cpp">
       <Filter>Source\SavgaProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SavgaProject\PlayerCharacterBase.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SavgaProject\SaveManager.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\SaveManager.h">
       <Filter>Source\SavgaProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SavgaProject\SavgaGameInstance.cpp">

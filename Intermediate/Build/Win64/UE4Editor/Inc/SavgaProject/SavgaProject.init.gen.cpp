@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeSavgaProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x81309E0C,
-				0x6445AD2A,
+				0xF30A876C,
+				0x238F2134,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
