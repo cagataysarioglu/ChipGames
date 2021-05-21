@@ -1,0 +1,5 @@
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\Definitions.SavgaProject.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\SavgaProject\Source\SavgaProject/SavgaGameInstance.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SavgaGameInstance.generated.h

@@ -1,0 +1,7 @@
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\Definitions.SavgaProject.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveGameMetadata.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveMetadata.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveMetadata.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveGameMetadata.generated.h

@@ -1,0 +1,27 @@
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\Definitions.SavgaProject.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveManager.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveMetadata.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveMetadata.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveManager.generated.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveGameMetadata.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveGameMetadata.generated.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SaveGameData.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveGameData.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

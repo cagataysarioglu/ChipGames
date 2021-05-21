@@ -1,0 +1,2 @@
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\Definitions.SavgaProject.h
+D:\GitHub\SavgaProject\Source\SavgaProject\SavgaProject.h

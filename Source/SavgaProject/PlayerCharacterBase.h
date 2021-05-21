@@ -15,31 +15,10 @@ public:
 	// Sets default values for this character's properties
 	APlayerCharacterBase();
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	float MaxHealth = 200.0f;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	float CurrentHealth;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	int HealthPack;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	int DoorKey;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	int QuestItem;
-
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase");
-	FString QuestText;
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-
-private:
-	void SaveGame();
-	void LoadGame();
 
 public:	
 	// Called every frame
