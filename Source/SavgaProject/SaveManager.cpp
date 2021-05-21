@@ -8,6 +8,8 @@
 static const FString KMetadataSaveSlot = "SaveGameMetadata";
 static const int32 KMaxSaveSlots = 40;
 
+FString USaveManager::CurrentSaveSlot;
+
 void USaveManager::Init()
 {
 	CurrentSaveSlot = "Default";

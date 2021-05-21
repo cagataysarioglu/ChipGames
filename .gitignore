@@ -15,3 +15,8 @@
 *.uhtpath
 *.dat
 *.bin
+*.xml
+*.bin
+*.dll
+*.lib
+*.json
