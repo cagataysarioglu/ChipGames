@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SavgaProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2480366D-E150-4114-BA61-E183DA4FEDE5}</UniqueIdentifier>
+      <UniqueIdentifier>{C28AFC61-7A35-4F8F-9A6D-73D70140DCEA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SavgaProject.Target.cs">
       <Filter>Source</Filter>
@@ -16,7 +16,7 @@
     <None Include="..\..\LICENSE" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{A0656DCE-DB0C-4F57-B0EF-F75FC2E8DC11}</UniqueIdentifier>
+      <UniqueIdentifier>{06849A7C-6C2A-45B7-819B-F7EA97987D6A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -34,8 +34,20 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SavgaProject">
-      <UniqueIdentifier>{72CE21C0-122D-499F-801C-AA1619721666}</UniqueIdentifier>
+      <UniqueIdentifier>{5D867647-2C17-4020-838B-7DB04A509E5E}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SavgaProject\CaaGameInstance.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\CaaGameInstance.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SavgaProject\CaaGameMode.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\CaaGameMode.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SavgaProject\PlayerCharacterBase.cpp">
       <Filter>Source\SavgaProject</Filter>
     </ClCompile>
@@ -64,6 +76,12 @@
       <Filter>Source\SavgaProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SavgaProject\SaveMetadata.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SavgaProject\SaveSlotObject.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\SaveSlotObject.h">
       <Filter>Source\SavgaProject</Filter>
     </ClInclude>
     <None Include="..\..\Source\SavgaProject\SavgaProject.Build.cs">

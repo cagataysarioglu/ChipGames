@@ -11,18 +11,22 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeSavgaProject_init() {}
+	SAVGAPROJECT_API UFunction* Z_Construct_UDelegateFunction_SavgaProject_OnSlotDeleted__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_SavgaProject()
 	{
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_SavgaProject_OnSlotDeleted__DelegateSignature,
+			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/SavgaProject",
-				nullptr,
-				0,
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xB18B3008,
-				0x5C7DE391,
+				0x74AB7BBD,
+				0x01EE79B1,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

@@ -20,3 +20,7 @@
 *.dll
 *.lib
 *.json
+*.modules
+*.dat
+*.state
+*.xml

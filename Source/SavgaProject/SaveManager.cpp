@@ -12,7 +12,7 @@ FString USaveManager::CurrentSaveSlot;
 
 void USaveManager::Init()
 {
-	CurrentSaveSlot = "Default";
+	CurrentSaveSlot = "Saklama";
 
 	// Make sure the metadata file exists in case the game has never been ran.
 	USaveGame* SaveGameMetadata = UGameplayStatics::LoadGameFromSlot(KMetadataSaveSlot, 0);
@@ -95,7 +95,7 @@ FString USaveManager::GetNewSaveSlot(bool& slot_found)
 	for (int32 i = 0; i < KMaxSaveSlots; ++i)
 	{
 		// SaklananOyun0, SaklananOyun1, SaklananOyun2 etc.
-		FString slotName = "SaklananOyun" + FString::FromInt(i);
+		FString slotName = "SaklananOyun" + FString::FromInt(i+1);
 
 		if (SaveGameMetadata->SavedGamesMetadata.Contains(slotName) == false)
 		{
