@@ -6,94 +6,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381b0bb-fe72-405d-9410-97d0169ce1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SaveInterface.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/SavgaProject/SaveInterface.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/GameBP/Blueprints/Actor/Weapon/WeaponBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameBP/Blueprints/Actor/Weapon/WeaponBP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/GameBP/Blueprints/TeomanPlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameBP/Blueprints/TeomanPlayer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/GameBP/Maps/Level_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameBP/Maps/Level_1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/GameBP/Maps/Level_1_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameBP/Maps/Level_1_BuiltData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/SavgaProjectModuleRules.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/SavgaProjectModuleRules.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/SavgaProjectModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/SavgaProjectModuleRules.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/HotReload.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/Metadata-HotReload.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/SavgaProjectEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/SavgaProjectEditor.uhtmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/CaaGameInstance.cpp.txt.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/CaaGameInstance.gen.cpp.txt.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/CaaGameMode.cpp.txt.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/CaaGameMode.gen.cpp.txt.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/PlayerCharacterBase.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/PlayerCharacterBase.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/PlayerCharacterBase.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/PlayerCharacterBase.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveGameData.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveGameData.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveGameData.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveGameData.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.cpp.txt.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.cpp.txt.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SaveManager.gen.cpp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SavgaProject.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SavgaProject.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/SavgaProject.init.gen.cpp.txt.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.suppressed.lib" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/DebugGame/SavgaProject/UE4Editor-SavgaProject-Win64-DebugGame.suppressed.lib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.cpp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameInstance.gen.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.cpp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/PlayerCharacterBase.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveGameData.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveGameData.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveGameData.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveGameData.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.cpp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.gen.cpp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SaveManager.gen.cpp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SavgaProject.init.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/SavgaProject.init.gen.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/UE4Editor-SavgaProject.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/PlayerCharacterBase.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/PlayerCharacterBase.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveGameData.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveGameData.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveGameData.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveGameData.generated.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveManager.generated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SaveManager.generated.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.gen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/SavgaProject/CaaGameMode.gen.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/SavgaProject.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/SavgaProject.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/SavgaProject.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/SavgaProject.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/SavgaProject.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/SavgaProject.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-25B8E8D7450A6B0B98CF28A20852C61F/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-58EF708745D8AA16E0E161AF8CFEE201/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-8BB1B4BB4B4D5B6EED9AB4AA7F2E5362/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-996EED61481A50B3ECE21AA0B64781AD/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-CFA832FC453BD346F0922989D440532C/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-D1D9674742188866C9B29395332AE03D/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-F701BDC243FD45578AEB7392A9DAC2EA/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UE4CC-Windows-FECA7E544D0C1914F3B751BDE66A5F6A/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-08.39.05.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-10.39.04.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-10.48.58.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-11.30.24.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-12.42.00.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-14.00.59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-16.08.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-11.43.42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-13.03.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-14.56.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-15.51.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.23-10.41.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.23-11.36.57.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/SavgaProject.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun1.sav" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun1.sav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun2.sav" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun2.sav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun3.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun4.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaklananOyun5.sav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SaveGames/SaveGameMetadata.sav" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SaveGames/SaveGameMetadata.sav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/CaaGameInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/CaaGameInstance.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/CaaGameInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/CaaGameInstance.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/PlayerCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/PlayerCharacterBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/SaveGameData.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/SaveGameData.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/SaveManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/SaveManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/SaveManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/SaveManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +64,6 @@
       <option value="$PROJECT_DIR$/Source/SavgaProject/sssssSaveMetadata.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveMetadata.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveMetadata.cpp" />
-      <option value="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveSlotObject.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveGameData.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveInterface.h" />
@@ -129,6 +74,7 @@
       <option value="$PROJECT_DIR$/Source/SavgaProject/PlayerCharacterBase.cpp" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/SaveManager.cpp" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/PlayerCharacterBase.h" />
+      <option value="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.h" />
       <option value="$PROJECT_DIR$/Source/SavgaProject/CaaGameMode.cpp" />
     </changedPaths>
   </component>
@@ -376,6 +322,7 @@
       <workItem from="1621682844994" duration="2592000" />
       <workItem from="1621685519748" duration="7006000" />
       <workItem from="1621760482612" duration="12978000" />
+      <workItem from="1621781538135" duration="2883000" />
     </task>
     <task id="LOCAL-00001" summary="Güncelleme">
       <created>1621593807953</created>
