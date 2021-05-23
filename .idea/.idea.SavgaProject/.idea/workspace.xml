@@ -8,7 +8,6 @@
     <list default="true" id="9381b0bb-fe72-405d-9410-97d0169ce1ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SavgaProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/GameBP/Blueprints/TeomanPlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameBP/Blueprints/TeomanPlayer.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/SavgaProjectEditor/Development/DependencyCache.bin" afterDir="false" />
@@ -21,9 +20,8 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/SavgaProject.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/DebugGame/Editor/SavgaProject.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.21-16.08.20.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-11.43.42.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/SavgaProject-backup-2021.05.22-13.03.35.log" beforeDir="false" />
@@ -322,7 +320,7 @@
       <workItem from="1621682844994" duration="2592000" />
       <workItem from="1621685519748" duration="7006000" />
       <workItem from="1621760482612" duration="12978000" />
-      <workItem from="1621781538135" duration="2883000" />
+      <workItem from="1621781538135" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="Güncelleme">
       <created>1621593807953</created>
