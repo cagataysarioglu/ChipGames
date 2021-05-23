@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SavgaProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C28AFC61-7A35-4F8F-9A6D-73D70140DCEA}</UniqueIdentifier>
+      <UniqueIdentifier>{F2D7DBA7-23B8-4BB3-B545-774D49F708C6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SavgaProject.Target.cs">
       <Filter>Source</Filter>
@@ -16,7 +16,7 @@
     <None Include="..\..\LICENSE" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{06849A7C-6C2A-45B7-819B-F7EA97987D6A}</UniqueIdentifier>
+      <UniqueIdentifier>{B1225EF6-8302-4A3B-9DD8-B0BB38885D0D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -34,7 +34,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SavgaProject">
-      <UniqueIdentifier>{5D867647-2C17-4020-838B-7DB04A509E5E}</UniqueIdentifier>
+      <UniqueIdentifier>{CAA5F780-5A74-4841-AA9F-6287A1A7CA9F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SavgaProject\CaaGameInstance.cpp">
       <Filter>Source\SavgaProject</Filter>
@@ -64,6 +64,12 @@
       <Filter>Source\SavgaProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SavgaProject\SaveGameMetadata.h">
+      <Filter>Source\SavgaProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SavgaProject\SaveInterface.cpp">
+      <Filter>Source\SavgaProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SavgaProject\SaveInterface.h">
       <Filter>Source\SavgaProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SavgaProject\SaveManager.cpp">

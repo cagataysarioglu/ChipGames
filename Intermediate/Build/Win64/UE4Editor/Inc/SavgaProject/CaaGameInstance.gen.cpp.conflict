@@ -1,0 +1,124 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "SavgaProject/CaaGameInstance.h"
+#ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeCaaGameInstance() {}
+// Cross Module References
+	SAVGAPROJECT_API UClass* Z_Construct_UClass_UCaaGameInstance_NoRegister();
+	SAVGAPROJECT_API UClass* Z_Construct_UClass_UCaaGameInstance();
+	ENGINE_API UClass* Z_Construct_UClass_UGameInstance();
+	UPackage* Z_Construct_UPackage__Script_SavgaProject();
+// End Cross Module References
+	DEFINE_FUNCTION(UCaaGameInstance::execShowWidget)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		UCaaGameInstance::ShowWidget();
+		P_NATIVE_END;
+	}
+	void UCaaGameInstance::StaticRegisterNativesUCaaGameInstance()
+	{
+		UClass* Class = UCaaGameInstance::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "ShowWidget", &UCaaGameInstance::execShowWidget },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "CaaGameInstance.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UCaaGameInstance, nullptr, "ShowWidget", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UCaaGameInstance_ShowWidget()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UCaaGameInstance_ShowWidget_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	UClass* Z_Construct_UClass_UCaaGameInstance_NoRegister()
+	{
+		return UCaaGameInstance::StaticClass();
+	}
+	struct Z_Construct_UClass_UCaaGameInstance_Statics
+	{
+		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
+#endif
+		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
+		static const UE4CodeGen_Private::FClassParams ClassParams;
+	};
+	UObject* (*const Z_Construct_UClass_UCaaGameInstance_Statics::DependentSingletons[])() = {
+		(UObject* (*)())Z_Construct_UClass_UGameInstance,
+		(UObject* (*)())Z_Construct_UPackage__Script_SavgaProject,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_UCaaGameInstance_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_UCaaGameInstance_ShowWidget, "ShowWidget" }, // 707610164
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UCaaGameInstance_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
+		{ "IncludePath", "CaaGameInstance.h" },
+		{ "ModuleRelativePath", "CaaGameInstance.h" },
+		{ "ObjectInitializerConstructorDeclared", "" },
+	};
+#endif
+	const FCppClassTypeInfoStatic Z_Construct_UClass_UCaaGameInstance_Statics::StaticCppClassTypeInfo = {
+		TCppClassTypeTraits<UCaaGameInstance>::IsAbstract,
+	};
+	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_UCaaGameInstance_Statics::ClassParams = {
+		&UCaaGameInstance::StaticClass,
+		nullptr,
+		&StaticCppClassTypeInfo,
+		DependentSingletons,
+		FuncInfo,
+		nullptr,
+		nullptr,
+		UE_ARRAY_COUNT(DependentSingletons),
+		UE_ARRAY_COUNT(FuncInfo),
+		0,
+		0,
+		0x009000A8u,
+		METADATA_PARAMS(Z_Construct_UClass_UCaaGameInstance_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UCaaGameInstance_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_UCaaGameInstance()
+	{
+		static UClass* OuterClass = nullptr;
+		if (!OuterClass)
+		{
+			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_UCaaGameInstance_Statics::ClassParams);
+		}
+		return OuterClass;
+	}
+	IMPLEMENT_CLASS(UCaaGameInstance, 209881544);
+	template<> SAVGAPROJECT_API UClass* StaticClass<UCaaGameInstance>()
+	{
+		return UCaaGameInstance::StaticClass();
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UCaaGameInstance(Z_Construct_UClass_UCaaGameInstance, &UCaaGameInstance::StaticClass, TEXT("/Script/SavgaProject"), TEXT("UCaaGameInstance"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UCaaGameInstance);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif

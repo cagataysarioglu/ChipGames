@@ -7,12 +7,16 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\CaaGameInstance.cpp.obj"
+"D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\CaaGameMode.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\PlayerCharacterBase.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveGameData.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveGameMetadata.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveManager.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveMetadata.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SavgaProject.cpp.obj"
+"D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\CaaGameInstance.gen.cpp.obj"
+"D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\CaaGameMode.gen.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\PlayerCharacterBase.gen.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveGameData.gen.cpp.obj"
 "D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\SaveGameMetadata.gen.cpp.obj"

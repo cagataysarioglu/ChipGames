@@ -25,8 +25,8 @@ void EmptyLinkFunctionForGeneratedCodeSavgaProject_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x74AB7BBD,
-				0x01EE79B1,
+				0x3C2F7213,
+				0xD2EBB004,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

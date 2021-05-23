@@ -14,8 +14,8 @@ struct FSaveMetadata;
 #endif
 #define SAVGAPROJECT_SaveManager_generated_h
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_SPARSE_DATA
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_RPC_WRAPPERS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_SPARSE_DATA
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetAllSaveMetadata); \
 	DECLARE_FUNCTION(execGetCurrentSaveSlot); \
@@ -26,7 +26,7 @@ struct FSaveMetadata;
 	DECLARE_FUNCTION(execSaveGame);
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetAllSaveMetadata); \
 	DECLARE_FUNCTION(execGetCurrentSaveSlot); \
@@ -37,7 +37,7 @@ struct FSaveMetadata;
 	DECLARE_FUNCTION(execSaveGame);
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_INCLASS_NO_PURE_DECLS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSaveManager(); \
 	friend struct Z_Construct_UClass_USaveManager_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(USaveManager)
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_INCLASS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesUSaveManager(); \
 	friend struct Z_Construct_UClass_USaveManager_Statics; \
@@ -55,7 +55,7 @@ public: \
 	DECLARE_SERIALIZER(USaveManager)
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_STANDARD_CONSTRUCTORS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USaveManager(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USaveManager) \
@@ -68,7 +68,7 @@ private: \
 public:
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_ENHANCED_CONSTRUCTORS \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USaveManager(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -81,28 +81,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USaveManager); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USaveManager)
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_PRIVATE_PROPERTY_OFFSET
-#define SavgaProject_Source_SavgaProject_SaveManager_h_13_PROLOG
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_GENERATED_BODY_LEGACY \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_PRIVATE_PROPERTY_OFFSET
+#define SavgaProject_Source_SavgaProject_SaveManager_h_14_PROLOG
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_PRIVATE_PROPERTY_OFFSET \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_SPARSE_DATA \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_RPC_WRAPPERS \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_INCLASS \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_STANDARD_CONSTRUCTORS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_PRIVATE_PROPERTY_OFFSET \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_SPARSE_DATA \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_RPC_WRAPPERS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_INCLASS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SavgaProject_Source_SavgaProject_SaveManager_h_16_GENERATED_BODY \
+#define SavgaProject_Source_SavgaProject_SaveManager_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_PRIVATE_PROPERTY_OFFSET \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_SPARSE_DATA \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_INCLASS_NO_PURE_DECLS \
-	SavgaProject_Source_SavgaProject_SaveManager_h_16_ENHANCED_CONSTRUCTORS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_PRIVATE_PROPERTY_OFFSET \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_SPARSE_DATA \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_INCLASS_NO_PURE_DECLS \
+	SavgaProject_Source_SavgaProject_SaveManager_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

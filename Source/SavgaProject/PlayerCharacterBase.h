@@ -16,22 +16,25 @@ public:
 	APlayerCharacterBase();
 
 	// The properties of player's status and inventory
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
+	FVector Location = GetActorLocation();
+	
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	float MaxHealth = 200.0f;
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	float CurrentHealth;
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	int HealthPack;
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	int DoorKey;
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	int QuestItem;
 
-	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="PlayerCharacterBase")
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, SaveGame, Category="SavedVariables")
 	FString QuestText;
 
 protected:

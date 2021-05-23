@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "SaveMetadata.h"
+#include "SaveInterface.h"
 #include "UObject/NoExportTypes.h"
 #include "SaveManager.generated.h"
 
@@ -18,6 +19,9 @@ class SAVGAPROJECT_API USaveManager : public UObject
 private:
 	// The current save slot.
 	static FString CurrentSaveSlot;
+
+	// All the actors in the game which implement the save interface.
+	static TArray<TScriptInterface<ISaveInterface>> SaveInterfaces;
 
 public:
 	// Initialize the class. It must be called when the game first launches.
@@ -53,5 +57,4 @@ public:
 	// Gets all the saved games.
 	UFUNCTION(BlueprintPure, Category="SaveAndLoad")
 	static TArray<FSaveMetadata> GetAllSaveMetadata();
-
 };

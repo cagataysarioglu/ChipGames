@@ -1,0 +1,1615 @@
+﻿Log file open, 05/23/21 11:53:30
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SavgaProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.575154
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.23-08.53.32:073][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.23-08.53.32:073][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:074][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:083][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-08.53.32:083][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.23-08.53.32:083][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.23-08.53.32:084][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-08.53.32:085][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.23-08.53.32:086][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-08.53.32:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.23-08.53.32:086][  0]LogHAL: Display: Platform has ~ 16 GB [17059868672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.23-08.53.32:086][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.23-08.53.32:086][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.05.23-08.53.32:086][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.23-08.53.32:087][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.05.23-08.53.32:088][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.23-08.53.32:088][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.23-08.53.32:089][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.23-08.53.32:089][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.23-08.53.32:089][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Engine.ini]
+[2021.05.23-08.53.32:089][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SavgaProject/Saved/Config/Windows/Editor.ini]
+[2021.05.23-08.53.32:089][  0]LogInit: Computer: HCS
+[2021.05.23-08.53.32:089][  0]LogInit: User: CagataySarioglu
+[2021.05.23-08.53.32:089][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.23-08.53.32:089][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.23-08.53.32:089][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.23-08.53.32:089][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.23-08.53.32:089][  0]LogMemory: Process Physical Memory: 137.64 MB used, 137.64 MB peak
+[2021.05.23-08.53.32:089][  0]LogMemory: Process Virtual Memory: 116.24 MB used, 116.24 MB peak
+[2021.05.23-08.53.32:089][  0]LogMemory: Physical Memory: 7816.17 MB used,  8453.39 MB free, 16269.56 MB total
+[2021.05.23-08.53.32:089][  0]LogMemory: Virtual Memory: 134202536.00 MB used,  15191.52 MB free, 134217728.00 MB total
+[2021.05.23-08.53.32:103][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.23-08.53.32:224][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.23-08.53.32:225][  0]LogInit: Using OS detected language (tr-TR).
+[2021.05.23-08.53.32:225][  0]LogInit: Using OS detected locale (tr-TR).
+[2021.05.23-08.53.32:236][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2021.05.23-08.53.32:647][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.23-08.53.32:691][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.23-08.53.32:749][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.23-08.53.32:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.23-08.53.33:171][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.23-08.53.33:171][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.23-08.53.33:171][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.23-08.53.33:171][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.23-08.53.33:345][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2021.05.23-08.53.33:345][  0]LogD3D11RHI:       2010/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.23-08.53.33:373][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.05.23-08.53.33:373][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.23-08.53.33:376][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.23-08.53.33:376][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.23-08.53.33:376][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.23-08.53.33:383][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.23-08.53.33:383][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2021.05.23-08.53.33:383][  0]LogWindows: EnumDisplayDevices:
+[2021.05.23-08.53.33:383][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.05.23-08.53.33:383][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.05.23-08.53.33:384][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.05.23-08.53.33:384][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.05.23-08.53.33:384][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2021.05.23-08.53.33:384][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.05.23-08.53.33:384][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.05.23-08.53.33:384][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2021.05.23-08.53.33:481][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.23-08.53.33:481][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.23-08.53.33:499][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.23-08.53.33:502][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.23-08.53.34:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.23-08.53.34:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.23-08.53.34:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.23-08.53.34:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.23-08.53.34:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.23-08.53.34:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.23-08.53.34:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.23-08.53.34:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.23-08.53.34:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.23-08.53.34:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.23-08.53.34:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.23-08.53.34:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.23-08.53.34:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.23-08.53.34:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.23-08.53.34:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.23-08.53.34:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.23-08.53.34:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.23-08.53.34:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.23-08.53.34:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.23-08.53.34:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.23-08.53.34:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.23-08.53.34:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.23-08.53.34:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.23-08.53.34:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.23-08.53.34:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.23-08.53.34:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.23-08.53.34:396][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.23-08.53.34:417][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.23-08.53.34:581][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.23-08.53.34:581][  0]LogShaderCompilers: Guid format shader working directory is 37 characters bigger than the processId version (D:/GitHub/SavgaProject/Intermediate/Shaders/WorkingDirectory/4116/).
+[2021.05.23-08.53.34:581][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/H_Cagatay_Sarioglu/AppData/Local/Temp/UnrealShaderWorkingDir/CC65067B42D97031750C9B92708E52AC/'.
+[2021.05.23-08.53.34:582][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.23-08.53.34:582][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.23-08.53.35:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.23-08.53.35:869][  0]LogDerivedDataCache: Loaded boot cache 0.09s 92MB C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-08.53.35:869][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.23-08.53.35:891][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GitHub/SavgaProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.23-08.53.35:891][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.23-08.53.35:891][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GitHub/SavgaProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-08.53.35:891][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.23-08.53.35:909][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.23-08.53.35:909][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.23-08.53.35:909][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.23-08.53.35:918][  0]LogDerivedDataCache: Speed tests for C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.23-08.53.35:918][  0]LogDerivedDataCache: Display: Performance to C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=615.36MBs, RandomWriteSpeed=132.64MBs. Assigned SpeedClass 'Local'
+[2021.05.23-08.53.35:919][  0]LogDerivedDataCache: Using Local data cache path C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.23-08.53.35:919][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.23-08.53.35:919][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.23-08.53.35:988][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.23-08.53.35:988][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.23-08.53.36:037][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2021.05.23-08.53.36:671][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.23-08.53.36:671][  0]LogInit: Active device profile: [0000021966326100][0000021965127B80 49] Windows
+[2021.05.23-08.53.36:671][  0]LogInit: Profiles: [0000021966326100][0000021965127B80 49] Windows, [00000219662CF300][000002196512FD00 49] WindowsNoEditor, [0000021966324900][00000219651321C0 49] WindowsServer, [00000219662CD000][0000021965136340 49] WindowsClient, [0000021966326F00][000002196513A4C0 49] IOS, [00000219662CD700][000002196513E640 49] iPadAir, [0000021966325200][00000219651427C0 49] iPadAir2, [0000021966267400][000002196514AA80 49] IPadPro, [0000021966267500][0000021965146AC0 49] iPadAir3, [0000021966327700][000002196514EC40 49] iPadAir4, [0000021966266B00][0000021965152DC0 49] iPadMini2, [0000021966324E00][0000021965156F40 49] iPadMini3, [0000021966265B00][000002196515B0C0 49] iPadMini4, [0000021966326B00][000002196515F240 49] iPadMini5, [00000219662AAD00][0000021965167500 49] iPhone6, [00000219662AAE00][0000021965163540 49] iPodTouch6, [00000219662CD200][000002196512B7C0 49] iPhone7, [00000219662CED00][000002196516B800 49] iPodTouch7, [00000219662AA600][00000219651A7940 49] iPhone5S, [00000219662CCA00][00000219651ABA80 49] iPhone6Plus, [00000219662A8E00][00000219651B9BC0 49] iPhone6S, [00000219662CDA00][00000219651CBD40 49] iPhone6SPlus, [00000219662ABF00][00000219651CE200 49] iPhone7Plus, [00000219662CE000][00000219651D2380 49] iPhoneSE, [00000219662AA700][00000219651D6500 49] iPhone8, [00000219662CFB00][00000219651DA680 49] iPhone8Plus, [00000219662AA400][00000219651DE800 49] iPhoneX, [00000219662CC800][00000219651E2980 49] iPhoneXS, [00000219662A8700][00000219651E6B00 49] iPhoneXSMax, [00000219662CEC00][00000219651EAC80 49] iPhoneXR, [00000219662AB100][00000219651F8E00 49] iPhone11, [00000219662CEA00][00000219651FCF80 49] iPhone11Pro, [00000219662AA300][0000021965201100 49] iPhone11ProMax, [00000219662CC700][0000021965205280 49] iPhoneSE2, [00000219662A9900][0000021965209400 49] iPhone12Mini, [00000219662CD900][000002196520D580 49] iPhone12, [00000219662A8400][0000021965229700 49] iPhone12Pro, [00000219662CC400][0000021965231880 49] iPhone12ProMax, [00000219662AA900][00000219651C79C0 49] iPadPro105, [00000219662CCB00][0000021965235B00 49] iPadPro129, [00000219662A9700][0000021965239C40 49] iPadPro97, [00000219662CCD00][0000021965240100 49] iPadPro2_129, [00000219662A9000][0000021965244280 49] iPad5, [00000219662CCF00][0000021965248400 49] iPad6, [0000021966326C00][0000021965250580 49] iPad7, [00000219662AAA00][0000021965254700 49] iPad8, [0000021966326D00][0000021965258880 49] iPadPro11, [00000219662CFF00][000002196525CA00 49] iPadPro2_11, [0000021966324100][0000021965260B80 49] iPadPro3_129, [00000219662CDD00][0000021965264D00 49] iPadPro4_129, [0000021966325E00][0000021965268E80 49] AppleTV, [00000219662CF700][000002196526D000 49] AppleTV4K, [0000021966327500][0000021965271180 49] TVOS, [00000219662CEB00][0000021965275300 49] Mac, [0000021966325B00][0000021965279480 49] MacClient, [00000219662CF800][0000021965287600 49] MacNoEditor, [0000021966327300][000002196528F780 49] MacServer, [00000219662CFD00][0000021965293900 49] Linux, [0000021966325600][000002196523DA40 49] LinuxAArch64, [00000219662CC200][0000021965297B80 49] LinuxNoEditor, [0000021966326900][000002196529BCC0 49] LinuxAArch64NoEditor, [00000219662CFC00][00000219652A2180 49] LinuxClient, [0000021966325300][00000219652C6300 49] LinuxAArch64Client, [00000219662CF100][00000219652CA480 49] LinuxServer, [0000021966326500][00000219652CE600 49] LinuxAArch64Server, [00000219662CD600][00000219652D2780 49] Android, [0000021966324B00][00000219652D6900 49] Android_Low, [00000219662CE900][00000219652DAA80 49] Android_Mid, [0000021966324300][00000219652DEC00 49] Android_High, [00000219662CD400][00000219652E2D80 49] Android_Default, [0000021966327000][00000219652E6F00 49] Android_Adreno4xx, [00000219662CE500][00000219652EB080 49] Android_Adreno5xx_Low, [0000021966324600][00000219652F3200 49] Android_Adreno5xx, [00000219662CDE00][00000219652F7380 49] Android_Adreno6xx, [0000021966324700][00000219652FB500 49] Android_Adreno6xx_Vulkan, [00000219662CE200][0000021965B31680 49] Android_Mali_T6xx, [0000021966325400][0000021965B35800 49] Android_Mali_T7xx, [00000219662CF200][0000021965B39980 49] Android_Mali_T8xx, [0000021966327400][000002196529FAC0 49] Android_Mali_G71, [00000219662CDC00][0000021965B3DC00 49] Android_Mali_G72, [0000021966326600][0000021965B41D40 49] Android_Mali_G72_Vulkan, [00000219662CD300][0000021965B441C0 49] Android_Mali_G76, [0000021966324800][0000021965B4C340 49] Android_Mali_G76_Vulkan, [00000219662CCE00][0000021965B504C0 49] Android_Mali_G77, [0000021966327100][0000021965B54640 49] Android_Mali_G77_Vulkan, [00000219662CF400][0000021965B587C0 49] Android_Vulkan_SM5, [0000021966325800][0000021965B5C940 49] Android_PowerVR_G6xxx, [00000219662CD100][0000021965B60AC0 49] Android_PowerVR_GT7xxx, [0000021966325700][0000021965B68C40 49] Android_PowerVR_GE8xxx, [00000219662CD500][0000021965B6CDC0 49] Android_PowerVR_GM9xxx, [0000021966265E00][0000021965B70F40 49] Android_PowerVR_GM9xxx_Vulkan, [00000219662A8A00][0000021965B750C0 49] Android_TegraK1, [0000021966264F00][0000021965B79240 49] Android_Unknown_Vulkan, [00000219662AA100][0000021965B813C0 49] Lumin, [0000021966264700][0000021965B85540 49] Lumin_Desktop, [00000219662ABE00][0000021965B896C0 49] HoloLens, 
+[2021.05.23-08.53.36:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.23-08.53.36:996][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.23-08.53.36:996][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.23-08.53.36:996][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.23-08.53.36:996][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.23-08.53.37:039][  0]LogNetVersion: SavgaProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4236389885)
+[2021.05.23-08.53.38:480][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.23-08.53.38:755][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.274685 seconds
+[2021.05.23-08.53.38:767][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.23-08.53.38:767][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.23-08.53.38:767][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.23-08.53.38:806][  0]LogWindows: Failed to load 'C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/Win64/UE4Editor-XAudio2.dll' (GetLastError=193)
+[2021.05.23-08.53.38:806][  0]LogWindows:   Missing import: X3DAudio1_7.dll
+[2021.05.23-08.53.38:806][  0]LogWindows:   Missing import: XAPOFX1_5.dll
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: ../../../Engine/Binaries/Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: D:/GitHub/SavgaProject/Binaries/Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: D:\GitHub\SavgaProject\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MeshPainting\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\GeometryProcessing\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MegascansPlugin\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\PythonScriptPlugin\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\EditorScriptingUtilities\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\AlembicImporter\Binaries\Win64
+[2021.05.23-08.53.38:806][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Database\SQLiteSupport\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\ContentBrowser\ContentBrowserFileDataSource\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\GeometryCache\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Database\DatabaseSupport\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Database\SQLiteCore\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\XGEController\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\2D\Paper2D\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\AI\AISupport\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\AI\EnvironmentQueryEditor\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Blendables\LightPropagationVolume\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\AssetManagerEditor\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\CryptoKeys\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\CurveEditorTools\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\DataValidation\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\FacialAnimation\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\GeometryMode\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\GameplayTagsEditor\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\MacGraphicsSwitching\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\MaterialAnalyzer\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\MobileLauncherProfileWizard\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\PluginBrowser\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\PluginUtils\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\SpeedTreeImporter\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Enterprise\DatasmithContent\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Enterprise\VariantManagerContent\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\AnimationSharing\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\SignificanceManager\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\CLionSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\CodeLiteSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\GitSourceControl\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\KDevelopSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\NullSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\PerforceSourceControl\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\PlasticSourceControl\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\RiderLink\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\PropertyAccessNode\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\PropertyAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\RiderSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\SubversionSourceControl\Binaries\Win64
+[2021.05.23-08.53.38:807][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\UObjectPlugin\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\VisualStudioSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\XCodeSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Developer\VisualStudioCodeSourceCodeAccess\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\LuminPlatformFeatures\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\MLSDK\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\MagicLeap\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\MagicLeapPassableWorld\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Lumin\MagicLeapMedia\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\AndroidMedia\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\AvfMedia\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\ImgMedia\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\MediaCompositing\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\MediaPlayerEditor\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\WmfMedia\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Messaging\TcpMessaging\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Messaging\UdpMessaging\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MovieScene\ActorSequence\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MovieScene\MatineeToLevelSequence\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MovieScene\TemplateSequence\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\MovieScene\LevelSequenceEditor\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\ActorLayerUtilities\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AndroidDeviceProfileSelector\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AndroidMoviePlayer\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AndroidPermission\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Portal\LauncherChunkInstaller\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AppleImageUtils\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AppleMoviePlayer\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\ArchVisCharacter\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AssetTags\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AudioCapture\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\CableComponent\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\ChunkDownloader\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\CustomMeshComponent\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\EditableMesh\Binaries\Win64
+[2021.05.23-08.53.38:808][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\ExampleDeviceProfileSelector\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Online\OnlineSubsystem\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\GooglePAD\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\GoogleCloudMessaging\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Online\OnlineSubsystemNull\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Online\OnlineSubsystemUtils\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\IOSDeviceProfileSelector\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\LinuxDeviceProfileSelector\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\LocationServicesBPLibrary\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\MobilePatchingUtils\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\PostSplashScreen\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\ProceduralMeshComponent\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\RuntimePhysXCooking\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\SoundFields\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Synthesis\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\AudioSynesthesia\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\WebMMoviePlayer\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Media\WebMMedia\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\WindowsMoviePlayer\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Cameras\CameraShakePreviewer\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\AutomationUtils\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Tests\ScreenshotTools\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\BackChannel\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ChaosCloth\Binaries\Win64
+[2021.05.23-08.53.38:809][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ChaosClothEditor\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ChaosNiagara\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\FX\Niagara\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ChaosSolverPlugin\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ChaosEditor\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\PlanarCutPlugin\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\GeometryCollectionPlugin\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\CharacterAI\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\MotoSynth\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\PlatformCrypto\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\ProxyLODPlugin\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Experimental\SkeletalReduction\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Editor\ContentBrowser\ContentBrowserClassDataSource\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Online\IOS\OnlineSubsystemIOS\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Online\Android\OnlineSubsystemGooglePlay\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Oculus\OculusVR\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Plugins\Runtime\Steam\SteamVR\Binaries\Win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Binaries\Win64\(Path="")\lib\win64
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Binaries\Win64\Android
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Binaries\Win64\IOS
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Binaries\Win64\Linux
+[2021.05.23-08.53.38:810][  0]LogWindows:   Looked in: C:\Program Files\UnrealEngine\UE_4.26\Engine\Binaries\Win64\Lumin
+[2021.05.23-08.53.38:810][  0]LogModuleManager: Warning: ModuleManager: Unable to load module 'C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/Win64/UE4Editor-XAudio2.dll' because the file couldn't be loaded by the OS.
+[2021.05.23-08.53.39:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.23-08.53.39:896][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.23-08.53.39:998][  0]LogPython: Using Python 3.7.7
+[2021.05.23-08.53.48:258][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.23-08.53.48:258][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.23-08.53.48:258][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.23-08.53.48:419][  0]SourceControl: Source control is disabled
+[2021.05.23-08.53.50:979][  0]LogUProjectInfo: Found projects:
+[2021.05.23-08.53.51:068][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.23-08.53.51:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-08.53.51:111][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.23-08.53.51:397][  0]LogCollectionManager: Loaded 0 collections in 0.002203 seconds
+[2021.05.23-08.53.51:435][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SavgaProject/Saved/Collections/' took 0.00s
+[2021.05.23-08.53.51:435][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SavgaProject/Content/Developers/CagataySarioglu/Collections/' took 0.00s
+[2021.05.23-08.53.51:435][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SavgaProject/Content/Collections/' took 0.00s
+[2021.05.23-08.53.51:435][  0]LogOcInput: OculusInput pre-init called
+[2021.05.23-08.53.51:454][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.23-08.53.51:454][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.23-08.53.51:974][  0]LogEngine: Initializing Engine...
+[2021.05.23-08.53.51:975][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.23-08.53.51:975][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.23-08.53.51:977][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.23-08.53.52:110][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.23-08.53.52:123][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.23-08.53.52:151][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.23-08.53.52:156][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.23-08.53.52:156][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.23-08.53.52:156][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.23-08.53.52:156][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.23-08.53.52:157][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.23-08.53.52:157][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.23-08.53.52:175][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.23-08.53.52:175][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.23-08.53.52:261][  0]LogAudioMixer: Display: Using Audio Device Hoparlör (Realtek High Definition Audio)
+[2021.05.23-08.53.52:268][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.23-08.53.52:270][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.23-08.53.52:270][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.23-08.53.52:271][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.23-08.53.52:271][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.23-08.53.52:271][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.23-08.53.52:272][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.23-08.53.52:272][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.23-08.53.52:272][  0]LogInit: FAudioDevice initialized.
+[2021.05.23-08.53.52:272][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.23-08.53.52:272][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.23-08.53.52:334][  0]LogDerivedDataCache: Saved boot cache 0.06s 92MB C:/Users/H_Cagatay_Sarioglu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.23-08.53.52:335][  0]LogInit: Texture streaming: Enabled
+[2021.05.23-08.53.52:389][  0]LogInit: Transaction tracking system initialized
+[2021.05.23-08.53.52:417][  0]BlueprintLog: New page: Editor Load
+[2021.05.23-08.53.52:510][  0]LocalizationService: Localization service is disabled
+[2021.05.23-08.53.52:543][  0]TimingProfiler: Initialize
+[2021.05.23-08.53.52:543][  0]TimingProfiler: OnSessionChanged
+[2021.05.23-08.53.52:543][  0]LoadingProfiler: Initialize
+[2021.05.23-08.53.52:543][  0]LoadingProfiler: OnSessionChanged
+[2021.05.23-08.53.52:543][  0]NetworkingProfiler: Initialize
+[2021.05.23-08.53.52:543][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.23-08.53.52:543][  0]MemoryProfiler: Initialize
+[2021.05.23-08.53.52:543][  0]MemoryProfiler: OnSessionChanged
+[2021.05.23-08.53.52:788][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.23-08.53.52:788][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.23-08.53.53:047][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SavgaProject/Content/' took 0.07s
+[2021.05.23-08.53.53:397][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.23-08.53.53:401][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.812
+[2021.05.23-08.53.53:401][  0]Cmd: MAP LOAD FILE="D:/GitHub/SavgaProject/Content/GameBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.23-08.53.53:401][  0]LightingResults: New page: Lighting Build
+[2021.05.23-08.53.53:403][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-08.53.53:403][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-08.53.53:403][  0]MapCheck: New page: Map Check
+[2021.05.23-08.53.53:403][  0]LightingResults: New page: Lighting Build
+[2021.05.23-08.53.53:424][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.23-08.53.54:321][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.05.23-08.53.54:323][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.05.23-08.53.54:333][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.23-08.53.54:355][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.05.23-08.53.54:356][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.23-08.53.54:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,24ms to complete.
+[2021.05.23-08.53.54:356][  0]LogFileHelpers: Loading map 'MainMenu' took 0.956
+[2021.05.23-08.53.54:357][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.769
+[2021.05.23-08.53.54:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-08.53.54:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-08.53.54:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-08.53.54:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.23-08.53.54:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0141 seconds. Added 3635 classes and 874 folders.
+[2021.05.23-08.53.54:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.23-08.53.54:721][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-08.53.54:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-08.53.54:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.23-08.53.54:729][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-08.53.54:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-08.53.54:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.23-08.53.54:741][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.23-08.53.54:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.23-08.53.54:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.23-08.53.54:748][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-08.53.54:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-08.53.54:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.23-08.53.54:754][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-08.53.54:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-08.53.54:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.23-08.53.54:761][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-08.53.54:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-08.53.54:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.05.23-08.53.54:773][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-08.53.54:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-08.53.54:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.23-08.53.54:785][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-08.53.54:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-08.53.54:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.05.23-08.53.54:792][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-08.53.54:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-08.53.54:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.05.23-08.53.54:800][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.23-08.53.54:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.23-08.53.54:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.23-08.53.54:810][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.23-08.53.54:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.23-08.53.54:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.23-08.53.54:817][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-08.53.54:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-08.53.54:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.05.23-08.53.54:823][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-08.53.54:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-08.53.54:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.05.23-08.53.54:830][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-08.53.54:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-08.53.54:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.05.23-08.53.54:837][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.23-08.53.54:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.23-08.53.54:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.05.23-08.53.54:843][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-08.53.54:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-08.53.54:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.05.23-08.53.54:851][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.23-08.53.54:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.23-08.53.54:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.05.23-08.53.54:857][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-08.53.54:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-08.53.54:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.05.23-08.53.54:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-08.53.54:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-08.53.54:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2021.05.23-08.53.54:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-08.53.54:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-08.53.54:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2021.05.23-08.53.54:878][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.23-08.53.54:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.23-08.53.54:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2021.05.23-08.53.54:888][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.23-08.53.54:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.23-08.53.54:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2021.05.23-08.53.54:898][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.23-08.53.54:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.23-08.53.54:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2021.05.23-08.53.54:903][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.23-08.53.54:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.23-08.53.54:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000157
+[2021.05.23-08.53.54:909][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.23-08.53.54:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.23-08.53.54:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2021.05.23-08.53.54:914][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.23-08.53.54:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.23-08.53.54:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.23-08.53.54:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000166
+[2021.05.23-08.53.55:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.23-08.53.55:242][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.23-08.53.55:488][  0]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.23-08.53.55:496][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.23-08.53.55:509][  0]LogSlate: Took 0.007220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.23-08.53.55:660][  0]LogRenderer: Reallocating scene render targets to support 1168x456 Format 10 NumSamples 1 (Frame:1).
+[2021.05.23-08.53.55:814][  0]LogSlate: Took 0.006355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.23-08.53.55:924][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.23-08.53.55:924][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.23-08.53.55:924][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.23-08.53.55:924][  0]LogLoad: (Engine Initialization) Total time: 27.34 seconds
+[2021.05.23-08.53.55:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.23-08.53.55:924][  0]LogInit: First time updating LLM stats...
+[2021.05.23-08.53.55:988][  0]LogAssetRegistry: Asset discovery search completed in 19.9530 seconds
+[2021.05.23-08.53.55:991][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.05.23-08.53.56:088][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.05.23-08.53.56:973][ 51]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.23-08.54.00:915][396]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.23-08.54.12:705][387]Running C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/GitHub/SavgaProject/SavgaProject.uproject" -game -rocket -progress
+[2021.05.23-08.54.13:626][387]Discovering modules, targets and source code for project...
+[2021.05.23-08.54.17:864][387]Binding IntelliSense data...
+[2021.05.23-08.54.26:758][387]Binding IntelliSense data... 100%
+[2021.05.23-08.54.26:758][387]Writing project files...
+[2021.05.23-08.54.34:432][387]Writing project files... 100%
+[2021.05.23-08.54.35:706][387]Candidate modules for hot reload:
+[2021.05.23-08.54.35:706][387]  SavgaProject
+[2021.05.23-08.54.35:706][387]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,1929 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: New page: Compilation - 23 May 2021 14:58:16
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: Creating makefile for SavgaProjectEditor (no existing makefile)
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-08.58.16:242][387]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: Reflection code generated for SavgaProjectEditor in 20,2178211 seconds
+[2021.05.23-08.58.16:242][387]CompilerResultsLog: Building SavgaProjectEditor...
+[2021.05.23-08.58.16:243][387]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.23-08.58.16:243][387]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [1/6] SavgaProject.init.gen.cpp
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [2/6] SaveInterface.cpp
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [3/6] SaveInterface.gen.cpp
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [4/6] UE4Editor-SavgaProject-1929.lib
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-1929.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-1929.exp nesnesi olu?turuluyor
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [5/6] UE4Editor-SavgaProject-1929.dll
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-1929.suppressed.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-1929.suppressed.exp nesnesi olu?turuluyor
+[2021.05.23-08.58.16:243][387]CompilerResultsLog:   [6/6] SavgaProjectEditor.target
+[2021.05.23-08.58.16:243][387]CompilerResultsLog: Total time in Parallel executor: 195,31 seconds
+[2021.05.23-08.58.16:243][387]CompilerResultsLog: Total execution time: 220,13 seconds
+[2021.05.23-08.58.16:243][387]LogMainFrame: MainFrame: Module compiling took 220.557 seconds
+[2021.05.23-08.58.16:260][387]LogClass: Could not find existing class SaveInterface in package /Script/SavgaProject for HotReload, assuming new class
+[2021.05.23-08.58.16:262][387]LogClass: SaveMetadata HotReload.
+[2021.05.23-08.58.16:266][387]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SavgaProject' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2021.05.23-08.58.16:272][387]Display: HotReload successful (7 functions remapped  1 scriptstructs remapped)
+[2021.05.23-08.58.16:338][387]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3636 classes and 874 folders.
+[2021.05.23-08.58.16:339][387]Display: HotReload took 220.7s.
+[2021.05.23-08.58.16:339][387]Warning: HotReload operation took 220.7s.
+[2021.05.23-08.58.16:388][387]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.05.23-08.58.16:405][387]LogHotReload: New module detected: UE4Editor-SavgaProject-1929.dll
+[2021.05.23-08.58.16:457][388]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.23-08.58.16:576][388]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SavgaProject' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2021.05.23-08.58.16:583][388]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2021.05.23-08.58.16:598][388]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3636 classes and 874 folders.
+[2021.05.23-08.58.16:604][388]Display: HotReload took  0.1s.
+[2021.05.23-09.01.27:021][920]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-09.24.47:933][ 95]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-09.34.54:131][902]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-09.47.09:603][293]Candidate modules for hot reload:
+[2021.05.23-09.47.09:603][293]  SavgaProject
+[2021.05.23-09.47.09:603][293]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,4974 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-09.47.09:630][293]Warning: Starting HotReload took  0.0s.
+[2021.05.23-09.52.46:512][975]CompilerResultsLog: New page: Compilation - 23 May 2021 15:52:46
+[2021.05.23-09.52.46:512][975]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-09.52.46:513][975]CompilerResultsLog: Creating makefile for SavgaProjectEditor (game project files are newer)
+[2021.05.23-09.52.46:513][975]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-09.52.46:513][975]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.23-09.52.46:515][975]CompilerResultsLog: Reflection code generated for SavgaProjectEditor in 6,6359063 seconds
+[2021.05.23-09.52.46:515][975]CompilerResultsLog: Building SavgaProjectEditor...
+[2021.05.23-09.52.46:515][975]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.23-09.52.46:515][975]CompilerResultsLog: Building 12 actions with 8 processes...
+[2021.05.23-09.52.46:515][975]CompilerResultsLog:   [1/12] CaaGameInstance.cpp
+[2021.05.23-09.52.46:516][975]CompilerResultsLog:   [2/12] SaveInterface.cpp
+[2021.05.23-09.52.46:516][975]CompilerResultsLog:   [3/12] SaveGameData.cpp
+[2021.05.23-09.52.46:516][975]CompilerResultsLog:   [4/12] CaaGameMode.cpp
+[2021.05.23-09.52.46:516][975]CompilerResultsLog:   [5/12] SaveInterface.gen.cpp
+[2021.05.23-09.52.46:517][975]CompilerResultsLog:   [6/12] SaveGameData.gen.cpp
+[2021.05.23-09.52.46:517][975]CompilerResultsLog:   [7/12] SaveManager.gen.cpp
+[2021.05.23-09.52.46:517][975]CompilerResultsLog:   [8/12] SaveManager.cpp
+[2021.05.23-09.52.46:517][975]CompilerResultsLog:   [9/12] SavgaProject.init.gen.cpp
+[2021.05.23-09.52.46:517][975]CompilerResultsLog:   [10/12] UE4Editor-SavgaProject-4974.lib
+[2021.05.23-09.52.46:518][975]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-4974.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-4974.exp nesnesi olu?turuluyor
+[2021.05.23-09.52.46:518][975]CompilerResultsLog:   [11/12] UE4Editor-SavgaProject-4974.dll
+[2021.05.23-09.52.46:518][975]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-4974.suppressed.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-4974.suppressed.exp nesnesi olu?turuluyor
+[2021.05.23-09.52.46:519][975]CompilerResultsLog:   [12/12] SavgaProjectEditor.target
+[2021.05.23-09.52.46:519][975]CompilerResultsLog: Total time in Parallel executor: 325,07 seconds
+[2021.05.23-09.52.46:519][975]CompilerResultsLog: Total execution time: 335,98 seconds
+[2021.05.23-09.52.46:519][975]LogMainFrame: MainFrame: Module compiling took 336.924 seconds
+[2021.05.23-09.52.46:592][975]LogClass: Could not find existing class SaveGameData in package /Script/SavgaProject for HotReload, assuming new class
+[2021.05.23-09.52.46:593][975]LogClass: Could not find existing class SaveInterface in package /Script/SavgaProject for HotReload, assuming new class
+[2021.05.23-09.52.46:593][975]LogClass: Function GetUniqueSaveName is new.
+[2021.05.23-09.52.46:593][975]LogClass: Function OnBeforeSave is new.
+[2021.05.23-09.52.46:597][975]LogClass: Could not find existing type SaveData for HotReload. Assuming new
+[2021.05.23-09.52.46:597][975]LogClass: SaveMetadata HotReload.
+[2021.05.23-09.52.46:634][975]LogHotReload: Re-instancing SaveGameData after hot-reload.
+[2021.05.23-09.52.46:671][975]LogHotReload: Re-instancing SaveInterface after hot-reload.
+[2021.05.23-09.52.46:678][975]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SavgaProject' in 0.0007 seconds. Added 8 classes and 2 folders.
+[2021.05.23-09.52.46:691][975]Display: HotReload successful (7 functions remapped  2 scriptstructs remapped)
+[2021.05.23-09.52.46:795][975]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0212 seconds. Added 3636 classes and 874 folders.
+[2021.05.23-09.52.46:795][975]Display: HotReload took 337.2s.
+[2021.05.23-09.53.13:031][500]LogWindows: LaunchURL https://epicsupport.force.com/unrealengine/s/
+[2021.05.23-10.05.00:932][168]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-10.10.20:922][878]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/SavedPopup.SavedPopup
+[2021.05.23-10.10.21:129][878]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.05.23-10.10.25:357][122]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-10.10.25:357][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-10.10.25:371][122]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.23-10.10.25:372][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.23-10.19.43:815][819]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-10.23.06:426][423]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.23-10.25.47:284][452]Candidate modules for hot reload:
+[2021.05.23-10.25.47:284][452]  SavgaProject
+[2021.05.23-10.25.47:284][452]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,4188 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-10.25.47:310][452]Warning: Starting HotReload took  0.0s.
+[2021.05.23-10.27.53:299][890]CompilerResultsLog: New page: Compilation - 23 May 2021 16:27:53
+[2021.05.23-10.27.53:300][890]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-10.27.53:301][890]CompilerResultsLog: Invalidating makefile for SavgaProjectEditor (SavgaProject.Build.cs modified)
+[2021.05.23-10.27.53:302][890]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-10.27.53:303][890]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.23-10.27.53:306][890]CompilerResultsLog: Reflection code generated for SavgaProjectEditor in 15,1918718 seconds
+[2021.05.23-10.27.53:307][890]CompilerResultsLog: Building SavgaProjectEditor...
+[2021.05.23-10.27.53:308][890]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.23-10.27.53:309][890]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.05.23-10.27.53:310][890]CompilerResultsLog:   [1/8] SavgaProject.init.gen.cpp
+[2021.05.23-10.27.53:311][890]CompilerResultsLog:   [2/8] SaveManager.gen.cpp
+[2021.05.23-10.27.53:312][890]CompilerResultsLog:   [3/8] CaaGameInstance.gen.cpp
+[2021.05.23-10.27.53:313][890]CompilerResultsLog:   [4/8] SaveManager.cpp
+[2021.05.23-10.27.53:313][890]CompilerResultsLog:    D:\GitHub\SavgaProject\Source\SavgaProject\SaveManager.cpp(85) : error C2761: 'void UCaaGameInstance::ShowWidget(void)': ?yenin yeniden bildirilmesine izin verilmiyor
+[2021.05.23-10.27.53:315][890]CompilerResultsLog:   [5/8] CaaGameInstance.cpp
+[2021.05.23-10.27.53:315][890]LogMainFrame: MainFrame: Module compiling took 126.038 seconds
+[2021.05.23-10.27.53:337][890]Warning: HotReload failed, recompile failed
+[2021.05.23-10.27.57:482][955]LogSlate: Took 0.004731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.23-10.28.16:641][105]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.28.16:647][105]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.32.45:742][713]Cmd: module list
+[2021.05.23-10.32.45:746][713]Listing all 423 known modules:
+
+[2021.05.23-10.32.45:746][713]    ActorLayerUtilities [File: ../../../Engine/Plugins/Runtime/ActorLayerUtilities/Binaries/Win64/UE4Editor-ActorLayerUtilities.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    ActorLayerUtilitiesEditor [File: ../../../Engine/Plugins/Runtime/ActorLayerUtilities/Binaries/Win64/UE4Editor-ActorLayerUtilitiesEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    ActorPickerMode [File: ../../../Engine/Binaries/Win64/UE4Editor-ActorPickerMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    ActorSequence [File: ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    ActorSequenceEditor [File: ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequenceEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    AddContentDialog [File: ../../../Engine/Binaries/Win64/UE4Editor-AddContentDialog.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:747][713]    AdvancedPreviewScene [File: ../../../Engine/Binaries/Win64/UE4Editor-AdvancedPreviewScene.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:748][713]    AIModule [File: ../../../Engine/Binaries/Win64/UE4Editor-AIModule.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:748][713]    AISupportModule [File: ../../../Engine/Plugins/AI/AISupport/Binaries/Win64/UE4Editor-AISupportModule.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:748][713]    AITestSuite [File: ../../../Engine/Binaries/Win64/UE4Editor-AITestSuite.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:748][713]    AlembicImporter [File: ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:748][713]    AlembicLibrary [File: ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:749][713]    AllDesktopTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-AllDesktopTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:749][713]    AndroidDeviceDetection [File: ../../../Engine/Binaries/Win64/Android/UE4Editor-AndroidDeviceDetection.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:749][713]    AndroidMediaEditor [File: ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:749][713]    AndroidMediaFactory [File: ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:749][713]    AndroidPermission [File: ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:750][713]    AndroidPlatformEditor [File: ../../../Engine/Binaries/Win64/Android/UE4Editor-AndroidPlatformEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:750][713]    AndroidRuntimeSettings [File: ../../../Engine/Binaries/Win64/Android/UE4Editor-AndroidRuntimeSettings.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:750][713]    AndroidTargetPlatform [File: ../../../Engine/Binaries/Win64/Android/UE4Editor-AndroidTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:750][713]    AnimationBlueprintEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-AnimationBlueprintEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:751][713]    AnimationModifiers [File: ../../../Engine/Binaries/Win64/UE4Editor-AnimationModifiers.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:751][713]    AnimationSharing [File: ../../../Engine/Plugins/Developer/AnimationSharing/Binaries/Win64/UE4Editor-AnimationSharing.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:751][713]    AnimationSharingEd [File: ../../../Engine/Plugins/Developer/AnimationSharing/Binaries/Win64/UE4Editor-AnimationSharingEd.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:751][713]    AnimGraph [File: ../../../Engine/Binaries/Win64/UE4Editor-AnimGraph.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:751][713]    AnimGraphRuntime [File: ../../../Engine/Binaries/Win64/UE4Editor-AnimGraphRuntime.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:752][713]    AppleImageUtils [File: ../../../Engine/Plugins/Runtime/AppleImageUtils/Binaries/Win64/UE4Editor-AppleImageUtils.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:752][713]    AppleImageUtilsBlueprintSupport [File: ../../../Engine/Plugins/Runtime/AppleImageUtils/Binaries/Win64/UE4Editor-AppleImageUtilsBlueprintSupport.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:752][713]    ArchVisCharacter [File: ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:752][713]    AssetManagerEditor [File: ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:752][713]    AssetRegistry [File: ../../../Engine/Binaries/Win64/UE4Editor-AssetRegistry.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:753][713]    AssetTags [File: ../../../Engine/Plugins/Runtime/AssetTags/Binaries/Win64/UE4Editor-AssetTags.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:753][713]    AssetTools [File: ../../../Engine/Binaries/Win64/UE4Editor-AssetTools.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:753][713]    AudioCapture [File: ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:753][713]    AudioCaptureEditor [File: ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:753][713]    AudioCaptureRtAudio [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioCaptureRtAudio.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:754][713]    AudioEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:754][713]    AudioFormatADPCM [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioFormatADPCM.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:754][713]    AudioFormatOgg [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioFormatOgg.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:754][713]    AudioFormatOpus [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioFormatOpus.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:754][713]    AudioMixerCore [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioMixerCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:755][713]    AudioMixerXAudio2 [File: ../../../Engine/Binaries/Win64/UE4Editor-AudioMixerXAudio2.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:755][713]    AudioSynesthesia [File: ../../../Engine/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesia.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:755][713]    AudioSynesthesiaCore [File: ../../../Engine/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesiaCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:755][713]    AudioSynesthesiaEditor [File: ../../../Engine/Plugins/Runtime/AudioSynesthesia/Binaries/Win64/UE4Editor-AudioSynesthesiaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:756][713]    AugmentedReality [File: ../../../Engine/Binaries/Win64/UE4Editor-AugmentedReality.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:756][713]    AutomationController [File: ../../../Engine/Binaries/Win64/UE4Editor-AutomationController.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:756][713]    AutomationUtils [File: ../../../Engine/Plugins/Experimental/AutomationUtils/Binaries/Win64/UE4Editor-AutomationUtils.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:756][713]    AutomationUtilsEditor [File: ../../../Engine/Plugins/Experimental/AutomationUtils/Binaries/Win64/UE4Editor-AutomationUtilsEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:757][713]    AutomationWindow [File: ../../../Engine/Binaries/Win64/UE4Editor-AutomationWindow.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:757][713]    AutomationWorker [File: ../../../Engine/Binaries/Win64/UE4Editor-AutomationWorker.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:757][713]    AVEncoder [File: ../../../Engine/Binaries/Win64/UE4Editor-AVEncoder.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:757][713]    AvfMediaEditor [File: ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:757][713]    AvfMediaFactory [File: ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:758][713]    BackChannel [File: ../../../Engine/Plugins/Experimental/BackChannel/Binaries/Win64/UE4Editor-BackChannel.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:758][713]    BehaviorTreeEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-BehaviorTreeEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:758][713]    BlueprintGraph [File: ../../../Engine/Binaries/Win64/UE4Editor-BlueprintGraph.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:758][713]    Blutility [File: ../../../Engine/Binaries/Win64/UE4Editor-Blutility.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:758][713]    BspMode [File: ../../../Engine/Plugins/Editor/GeometryMode/Binaries/Win64/UE4Editor-BspMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:759][713]    CableComponent [File: ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:759][713]    CameraShakePreviewer [File: ../../../Engine/Plugins/Cameras/CameraShakePreviewer/Binaries/Win64/UE4Editor-CameraShakePreviewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:759][713]    Chaos [File: ../../../Engine/Binaries/Win64/UE4Editor-Chaos.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:760][713]    ChaosCloth [File: ../../../Engine/Plugins/Experimental/ChaosCloth/Binaries/Win64/UE4Editor-ChaosCloth.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:760][713]    ChaosClothEditor [File: ../../../Engine/Plugins/Experimental/ChaosClothEditor/Binaries/Win64/UE4Editor-ChaosClothEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:760][713]    ChaosNiagara [File: ../../../Engine/Plugins/Experimental/ChaosNiagara/Binaries/Win64/UE4Editor-ChaosNiagara.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:760][713]    ChaosSolverEditor [File: ../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Binaries/Win64/UE4Editor-ChaosSolverEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:760][713]    CharacterAI [File: ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:761][713]    ChunkDownloader [File: ../../../Engine/Plugins/Runtime/ChunkDownloader/Binaries/Win64/UE4Editor-ChunkDownloader.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:761][713]    ClassViewer [File: ../../../Engine/Binaries/Win64/UE4Editor-ClassViewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:761][713]    CLionSourceCodeAccess [File: ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:761][713]    ClothingSystemEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-ClothingSystemEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:761][713]    ClothingSystemRuntimeNv [File: ../../../Engine/Binaries/Win64/UE4Editor-ClothingSystemRuntimeNv.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:762][713]    ClothPainter [File: ../../../Engine/Binaries/Win64/UE4Editor-ClothPainter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:762][713]    CollectionManager [File: ../../../Engine/Binaries/Win64/UE4Editor-CollectionManager.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:762][713]    CollisionAnalyzer [File: ../../../Engine/Binaries/Win64/UE4Editor-CollisionAnalyzer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:762][713]    CommonMenuExtensions [File: ../../../Engine/Binaries/Win64/UE4Editor-CommonMenuExtensions.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:763][713]    ComponentVisualizers [File: ../../../Engine/Binaries/Win64/UE4Editor-ComponentVisualizers.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:763][713]    ContentBrowser [File: ../../../Engine/Binaries/Win64/UE4Editor-ContentBrowser.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:763][713]    ContentBrowserAssetDataSource [File: ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Binaries/Win64/UE4Editor-ContentBrowserAssetDataSource.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:763][713]    ContentBrowserClassDataSource [File: ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserClassDataSource/Binaries/Win64/UE4Editor-ContentBrowserClassDataSource.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:764][713]    ContentBrowserData [File: ../../../Engine/Binaries/Win64/UE4Editor-ContentBrowserData.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:764][713]    ContentBrowserFileDataSource [File: ../../../Engine/Plugins/Editor/ContentBrowser/ContentBrowserFileDataSource/Binaries/Win64/UE4Editor-ContentBrowserFileDataSource.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:764][713]    CookedIterativeFile [File: ../../../Engine/Binaries/Win64/UE4Editor-CookedIterativeFile.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:764][713]    Core [File: ../../../Engine/Binaries/Win64/UE4Editor-Core.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:764][713]    CoreUObject [File: ../../../Engine/Binaries/Win64/UE4Editor-CoreUObject.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:765][713]    CryptoKeys [File: ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:765][713]    CryptoKeysOpenSSL [File: ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:765][713]    CurveEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-CurveEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:765][713]    CurveEditorTools [File: ../../../Engine/Plugins/Editor/CurveEditorTools/Binaries/Win64/UE4Editor-CurveEditorTools.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:765][713]    CustomMeshComponent [File: ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:766][713]    D3D11RHI [File: ../../../Engine/Binaries/Win64/UE4Editor-D3D11RHI.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:766][713]    DatabaseSupport [File: ../../../Engine/Plugins/Runtime/Database/DatabaseSupport/Binaries/Win64/UE4Editor-DatabaseSupport.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:766][713]    DatasmithContent [File: ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:766][713]    DatasmithContentEditor [File: ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContentEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:766][713]    DataValidation [File: ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:767][713]    DerivedDataCache [File: ../../../Engine/Binaries/Win64/UE4Editor-DerivedDataCache.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:767][713]    DesktopPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-DesktopPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:767][713]    DetailCustomizations [File: ../../../Engine/Binaries/Win64/UE4Editor-DetailCustomizations.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:767][713]    DeviceManager [File: ../../../Engine/Binaries/Win64/UE4Editor-DeviceManager.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:768][713]    DeviceProfileEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-DeviceProfileEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:768][713]    DirectoryWatcher [File: ../../../Engine/Binaries/Win64/UE4Editor-DirectoryWatcher.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:768][713]    Documentation [File: ../../../Engine/Binaries/Win64/UE4Editor-Documentation.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:768][713]    DynamicMesh [File: ../../../Engine/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-DynamicMesh.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:768][713]    EditableMesh [File: ../../../Engine/Plugins/Runtime/EditableMesh/Binaries/Win64/UE4Editor-EditableMesh.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:769][713]    EditorInteractiveToolsFramework [File: ../../../Engine/Binaries/Win64/UE4Editor-EditorInteractiveToolsFramework.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:769][713]    EditorScriptingUtilities [File: ../../../Engine/Plugins/Editor/EditorScriptingUtilities/Binaries/Win64/UE4Editor-EditorScriptingUtilities.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:769][713]    EditorSettingsViewer [File: ../../../Engine/Binaries/Win64/UE4Editor-EditorSettingsViewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    EditorStyle [File: ../../../Engine/Binaries/Win64/UE4Editor-EditorStyle.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    EditorWidgets [File: ../../../Engine/Binaries/Win64/UE4Editor-EditorWidgets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    Engine [File: ../../../Engine/Binaries/Win64/UE4Editor-Engine.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    EnvironmentQueryEditor [File: ../../../Engine/Plugins/AI/EnvironmentQueryEditor/Binaries/Win64/UE4Editor-EnvironmentQueryEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    ExampleDeviceProfileSelector [File: ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:770][713]    ExrReaderGpu [File: ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ExrReaderGpu.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FacialAnimation [File: ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FacialAnimationEditor [File: ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FieldSystemEngine [File: ../../../Engine/Binaries/Win64/UE4Editor-FieldSystemEngine.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FoliageEdit [File: ../../../Engine/Binaries/Win64/UE4Editor-FoliageEdit.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FractureEditor [File: ../../../Engine/Plugins/Experimental/ChaosEditor/Binaries/Win64/UE4Editor-FractureEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:771][713]    FunctionalTesting [File: ../../../Engine/Binaries/Win64/UE4Editor-FunctionalTesting.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GameplayDebugger [File: ../../../Engine/Binaries/Win64/UE4Editor-GameplayDebugger.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GameplayMediaEncoder [File: ../../../Engine/Binaries/Win64/UE4Editor-GameplayMediaEncoder.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GameplayTagsEditor [File: ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GameplayTasksEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-GameplayTasksEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GameProjectGeneration [File: ../../../Engine/Binaries/Win64/UE4Editor-GameProjectGeneration.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:772][713]    GammaUI [File: ../../../Engine/Binaries/Win64/UE4Editor-GammaUI.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:773][713]    GeometricObjects [File: ../../../Engine/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometricObjects.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:773][713]    GeometryAlgorithms [File: ../../../Engine/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-GeometryAlgorithms.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:773][713]    GeometryCache [File: ../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor-GeometryCache.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:773][713]    GeometryCacheEd [File: ../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor-GeometryCacheEd.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:773][713]    GeometryCacheSequencer [File: ../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor-GeometryCacheSequencer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:774][713]    GeometryCacheStreamer [File: ../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor-GeometryCacheStreamer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:774][713]    GeometryCacheTracks [File: ../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Win64/UE4Editor-GeometryCacheTracks.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:774][713]    GeometryCollectionEditor [File: ../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UE4Editor-GeometryCollectionEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:774][713]    GeometryCollectionSequencer [File: ../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UE4Editor-GeometryCollectionSequencer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:775][713]    GeometryCollectionTracks [File: ../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Binaries/Win64/UE4Editor-GeometryCollectionTracks.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:775][713]    GeometryMode [File: ../../../Engine/Plugins/Editor/GeometryMode/Binaries/Win64/UE4Editor-GeometryMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:775][713]    GitSourceControl [File: ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:775][713]    GooglePAD [File: ../../../Engine/Plugins/Runtime/GooglePAD/Binaries/Win64/UE4Editor-GooglePAD.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:775][713]    GooglePADEditor [File: ../../../Engine/Plugins/Runtime/GooglePAD/Binaries/Win64/UE4Editor-GooglePADEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:776][713]    GraphEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-GraphEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:776][713]    HardwareTargeting [File: ../../../Engine/Binaries/Win64/UE4Editor-HardwareTargeting.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:776][713]    HeadMountedDisplay [File: ../../../Engine/Binaries/Win64/UE4Editor-HeadMountedDisplay.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:776][713]    HierarchicalLODOutliner [File: ../../../Engine/Binaries/Win64/UE4Editor-HierarchicalLODOutliner.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    HotReload [File: ../../../Engine/Binaries/Win64/UE4Editor-HotReload.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    HTTP [File: ../../../Engine/Binaries/Win64/UE4Editor-HTTP.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    ImageWrapper [File: ../../../Engine/Binaries/Win64/UE4Editor-ImageWrapper.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    ImageWriteQueue [File: ../../../Engine/Binaries/Win64/UE4Editor-ImageWriteQueue.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    ImgMedia [File: ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:777][713]    ImgMediaEditor [File: ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    ImgMediaFactory [File: ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    InputBindingEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-InputBindingEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    InputCore [File: ../../../Engine/Binaries/Win64/UE4Editor-InputCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    InternationalizationSettings [File: ../../../Engine/Binaries/Win64/UE4Editor-InternationalizationSettings.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    IntroTutorials [File: ../../../Engine/Binaries/Win64/UE4Editor-IntroTutorials.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:778][713]    IOSPlatformEditor [File: ../../../Engine/Binaries/Win64/IOS/UE4Editor-IOSPlatformEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    IOSRuntimeSettings [File: ../../../Engine/Binaries/Win64/IOS/UE4Editor-IOSRuntimeSettings.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    IOSTargetPlatform [File: ../../../Engine/Binaries/Win64/IOS/UE4Editor-IOSTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    Kismet [File: ../../../Engine/Binaries/Win64/UE4Editor-Kismet.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    KismetCompiler [File: ../../../Engine/Binaries/Win64/UE4Editor-KismetCompiler.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    KismetWidgets [File: ../../../Engine/Binaries/Win64/UE4Editor-KismetWidgets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:779][713]    Landscape [File: ../../../Engine/Binaries/Win64/UE4Editor-Landscape.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:780][713]    LandscapeEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-LandscapeEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:780][713]    LandscapeEditorUtilities [File: ../../../Engine/Binaries/Win64/UE4Editor-LandscapeEditorUtilities.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:780][713]    LauncherChunkInstaller [File: ../../../Engine/Plugins/Portal/LauncherChunkInstaller/Binaries/Win64/UE4Editor-LauncherChunkInstaller.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:780][713]    LauncherPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-LauncherPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:780][713]    Layers [File: ../../../Engine/Binaries/Win64/UE4Editor-Layers.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:781][713]    LevelEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-LevelEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:781][713]    LevelSequence [File: ../../../Engine/Binaries/Win64/UE4Editor-LevelSequence.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:781][713]    LevelSequenceEditor [File: ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:781][713]    LightPropagationVolumeEditor [File: ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:781][713]    LightPropagationVolumeRuntime [File: ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:782][713]    LinuxAArch64ClientTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ClientTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:782][713]    LinuxAArch64NoEditorTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxAArch64NoEditorTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:782][713]    LinuxAArch64ServerTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxAArch64ServerTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LinuxClientTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxClientTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LinuxNoEditorTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxNoEditorTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LinuxServerTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxServerTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LinuxTargetPlatform [File: ../../../Engine/Binaries/Win64/Linux/UE4Editor-LinuxTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LiveCoding [File: ../../../Engine/Binaries/Win64/UE4Editor-LiveCoding.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:783][713]    LocalizationDashboard [File: ../../../Engine/Binaries/Win64/UE4Editor-LocalizationDashboard.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:784][713]    LocalizationService [File: ../../../Engine/Binaries/Win64/UE4Editor-LocalizationService.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:784][713]    LocationServicesBPLibrary [File: ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:784][713]    LogVisualizer [File: ../../../Engine/Binaries/Win64/UE4Editor-LogVisualizer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:784][713]    LuminPlatformEditor [File: ../../../Engine/Binaries/Win64/Lumin/UE4Editor-LuminPlatformEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:784][713]    LuminRuntimeSettings [File: ../../../Engine/Binaries/Win64/Lumin/UE4Editor-LuminRuntimeSettings.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    LuminTargetPlatform [File: ../../../Engine/Binaries/Win64/Lumin/UE4Editor-LuminTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    MacClientTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-MacClientTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    MacNoEditorTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-MacNoEditorTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    MacServerTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-MacServerTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    MacTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-MacTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:785][713]    MagicLeap [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeap.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapAR [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapAR.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapARPin [File: ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Binaries/Win64/UE4Editor-MagicLeapARPin.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapARPinImpl [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapARPinImpl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapAudio [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapAudio.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapController [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapController.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:786][713]    MagicLeapEyeTracker [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapEyeTracker.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:787][713]    MagicLeapHandMeshing [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapHandMeshing.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:787][713]    MagicLeapHandTracking [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapHandTracking.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:787][713]    MagicLeapHelperOpenGL [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapHelperOpenGL.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:787][713]    MagicLeapHelperVulkan [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapHelperVulkan.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:788][713]    MagicLeapIdentity [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapIdentity.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:788][713]    MagicLeapImageTracker [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapImageTracker.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:788][713]    MagicLeapLightEstimation [File: ../../../Engine/Plugins/Lumin/MagicLeapLightEstimation/Binaries/Win64/UE4Editor-MagicLeapLightEstimation.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:788][713]    MagicLeapMediaCodecFactory [File: ../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Win64/UE4Editor-MagicLeapMediaCodecFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:789][713]    MagicLeapMediaEditor [File: ../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Win64/UE4Editor-MagicLeapMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:789][713]    MagicLeapMediaFactory [File: ../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Win64/UE4Editor-MagicLeapMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:789][713]    MagicLeapPlanes [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapPlanes.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:789][713]    MagicLeapPrivileges [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapPrivileges.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:789][713]    MagicLeapSecureStorage [File: ../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Win64/UE4Editor-MagicLeapSecureStorage.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:790][713]    MagicLeapSharedWorld [File: ../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Binaries/Win64/UE4Editor-MagicLeapSharedWorld.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:790][713]    MainFrame [File: ../../../Engine/Binaries/Win64/UE4Editor-MainFrame.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:790][713]    MaterialAnalyzer [File: ../../../Engine/Plugins/Editor/MaterialAnalyzer/Binaries/Win64/UE4Editor-MaterialAnalyzer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:790][713]    MaterialBaking [File: ../../../Engine/Binaries/Win64/UE4Editor-MaterialBaking.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:790][713]    MaterialEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-MaterialEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:791][713]    MatineeToLevelSequence [File: ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:791][713]    Media [File: ../../../Engine/Binaries/Win64/UE4Editor-Media.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:791][713]    MediaAssets [File: ../../../Engine/Binaries/Win64/UE4Editor-MediaAssets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:791][713]    MediaCompositing [File: ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:791][713]    MediaCompositingEditor [File: ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:792][713]    MediaInfo [File: ../../../Engine/Binaries/Win64/UE4Editor-MediaInfo.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:792][713]    MediaPlayerEditor [File: ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:792][713]    MegascansPlugin [File: ../../../Engine/Plugins/MegascansPlugin/Binaries/Win64/UE4Editor-MegascansPlugin.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:792][713]    MergeActors [File: ../../../Engine/Binaries/Win64/UE4Editor-MergeActors.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:793][713]    MeshBoneReduction [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshBoneReduction.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:793][713]    MeshBuilder [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshBuilder.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:793][713]    MeshConversion [File: ../../../Engine/Plugins/Experimental/GeometryProcessing/Binaries/Win64/UE4Editor-MeshConversion.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:793][713]    MeshMergeUtilities [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshMergeUtilities.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:793][713]    MeshPaint [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshPaint.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MeshPaintEditorMode [File: ../../../Engine/Plugins/MeshPainting/Binaries/Win64/UE4Editor-MeshPaintEditorMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MeshPaintingToolset [File: ../../../Engine/Plugins/MeshPainting/Binaries/Win64/UE4Editor-MeshPaintingToolset.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MeshPaintMode [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshPaintMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MeshReductionInterface [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshReductionInterface.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MeshUtilities [File: ../../../Engine/Binaries/Win64/UE4Editor-MeshUtilities.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:794][713]    MessageLog [File: ../../../Engine/Binaries/Win64/UE4Editor-MessageLog.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:795][713]    Messaging [File: ../../../Engine/Binaries/Win64/UE4Editor-Messaging.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:795][713]    MessagingRpc [File: ../../../Engine/Binaries/Win64/UE4Editor-MessagingRpc.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:795][713]    MetalShaderFormat [File: ../../../Engine/Binaries/Win64/UE4Editor-MetalShaderFormat.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:795][713]    MLSDK [File: ../../../Engine/Plugins/Lumin/MLSDK/Binaries/Win64/UE4Editor-MLSDK.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:795][713]    MobileLauncherProfileWizard [File: ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:796][713]    MobilePatchingUtils [File: ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:796][713]    ModuleUI [File: ../../../Engine/Binaries/Win64/UE4Editor-ModuleUI.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:796][713]    MotoSynth [File: ../../../Engine/Plugins/Experimental/MotoSynth/Binaries/Win64/UE4Editor-MotoSynth.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:796][713]    MotoSynthEditor [File: ../../../Engine/Plugins/Experimental/MotoSynth/Binaries/Win64/UE4Editor-MotoSynthEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:797][713]    MovieScene [File: ../../../Engine/Binaries/Win64/UE4Editor-MovieScene.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:797][713]    MovieSceneTools [File: ../../../Engine/Binaries/Win64/UE4Editor-MovieSceneTools.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:797][713]    MovieSceneTracks [File: ../../../Engine/Binaries/Win64/UE4Editor-MovieSceneTracks.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:797][713]    MRMesh [File: ../../../Engine/Binaries/Win64/UE4Editor-MRMesh.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:797][713]    NavigationSystem [File: ../../../Engine/Binaries/Win64/UE4Editor-NavigationSystem.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:798][713]    NetworkFile [File: ../../../Engine/Binaries/Win64/UE4Editor-NetworkFile.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:798][713]    Networking [File: ../../../Engine/Binaries/Win64/UE4Editor-Networking.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:798][713]    NetworkReplayStreaming [File: ../../../Engine/Binaries/Win64/UE4Editor-NetworkReplayStreaming.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:798][713]    Niagara [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-Niagara.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:798][713]    NiagaraAnimNotifies [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraAnimNotifies.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:799][713]    NiagaraCore [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:799][713]    NiagaraEditor [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:799][713]    NiagaraEditorWidgets [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraEditorWidgets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:799][713]    NiagaraShader [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraShader.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:799][713]    NiagaraVertexFactories [File: ../../../Engine/Plugins/FX/Niagara/Binaries/Win64/UE4Editor-NiagaraVertexFactories.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    NullInstallBundleManager [File: ../../../Engine/Binaries/Win64/UE4Editor-NullInstallBundleManager.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    OculusEditor [File: ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    OculusHMD [File: ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    OculusInput [File: ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    OculusMR [File: ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusMR.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:800][713]    OnlineBlueprintSupport [File: ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:801][713]    OnlineSubsystem [File: ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:801][713]    OnlineSubsystemNULL [File: ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:801][713]    OnlineSubsystemUtils [File: ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:801][713]    OpenExrWrapper [File: ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:802][713]    OpenGLDrv [File: ../../../Engine/Binaries/Win64/UE4Editor-OpenGLDrv.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:802][713]    OutputLog [File: ../../../Engine/Binaries/Win64/UE4Editor-OutputLog.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:802][713]    Overlay [File: ../../../Engine/Binaries/Win64/UE4Editor-Overlay.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:802][713]    OverlayEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-OverlayEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:802][713]    PackagesDialog [File: ../../../Engine/Binaries/Win64/UE4Editor-PackagesDialog.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:803][713]    PacketHandler [File: ../../../Engine/Binaries/Win64/UE4Editor-PacketHandler.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:803][713]    PakFile [File: ../../../Engine/Binaries/Win64/UE4Editor-PakFile.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:803][713]    Paper2D [File: ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:803][713]    Paper2DEditor [File: ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:803][713]    PaperSpriteSheetImporter [File: ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:804][713]    PaperTiledImporter [File: ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:804][713]    PerforceSourceControl [File: ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:804][713]    Persona [File: ../../../Engine/Binaries/Win64/UE4Editor-Persona.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:804][713]    PhysXCooking [File: ../../../Engine/Binaries/Win64/UE4Editor-PhysXCooking.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:804][713]    PhysXVehicles [File: ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:805][713]    PhysXVehiclesEditor [File: ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:805][713]    PIEPreviewDeviceProfileSelector [File: ../../../Engine/Binaries/Win64/UE4Editor-PIEPreviewDeviceProfileSelector.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:805][713]    PixelInspectorModule [File: ../../../Engine/Binaries/Win64/UE4Editor-PixelInspectorModule.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:805][713]    PlacementMode [File: ../../../Engine/Binaries/Win64/UE4Editor-PlacementMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:805][713]    PlanarCut [File: ../../../Engine/Plugins/Experimental/PlanarCutPlugin/Binaries/Win64/UE4Editor-PlanarCut.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:806][713]    PlasticSourceControl [File: ../../../Engine/Plugins/Developer/PlasticSourceControl/Binaries/Win64/UE4Editor-PlasticSourceControl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:806][713]    PlatformCrypto [File: ../../../Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UE4Editor-PlatformCrypto.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:806][713]    PlatformCryptoOpenSSL [File: ../../../Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UE4Editor-PlatformCryptoOpenSSL.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:806][713]    PlatformCryptoTypes [File: ../../../Engine/Plugins/Experimental/PlatformCrypto/Binaries/Win64/UE4Editor-PlatformCryptoTypes.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:806][713]    PluginBrowser [File: ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:807][713]    PluginUtils [File: ../../../Engine/Plugins/Developer/PluginUtils/Binaries/Win64/UE4Editor-PluginUtils.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:807][713]    PortalRpc [File: ../../../Engine/Binaries/Win64/UE4Editor-PortalRpc.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:807][713]    PortalServices [File: ../../../Engine/Binaries/Win64/UE4Editor-PortalServices.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:807][713]    ProceduralMeshComponent [File: ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:807][713]    ProceduralMeshComponentEditor [File: ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:808][713]    ProfilerClient [File: ../../../Engine/Binaries/Win64/UE4Editor-ProfilerClient.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:808][713]    ProfilerService [File: ../../../Engine/Binaries/Win64/UE4Editor-ProfilerService.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:808][713]    ProjectLauncher [File: ../../../Engine/Binaries/Win64/UE4Editor-ProjectLauncher.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:808][713]    ProjectSettingsViewer [File: ../../../Engine/Binaries/Win64/UE4Editor-ProjectSettingsViewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:809][713]    ProjectTargetPlatformEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-ProjectTargetPlatformEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:809][713]    PropertyAccessEditor [File: ../../../Engine/Plugins/Runtime/PropertyAccess/Binaries/Win64/UE4Editor-PropertyAccessEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:809][713]    PropertyAccessNode [File: ../../../Engine/Plugins/Developer/PropertyAccessNode/Binaries/Win64/UE4Editor-PropertyAccessNode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:809][713]    PropertyEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-PropertyEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:809][713]    ProxyLODMeshReduction [File: ../../../Engine/Plugins/Experimental/ProxyLODPlugin/Binaries/Win64/UE4Editor-ProxyLODMeshReduction.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:810][713]    PythonScriptPlugin [File: ../../../Engine/Plugins/Experimental/PythonScriptPlugin/Binaries/Win64/UE4Editor-PythonScriptPlugin.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:810][713]    PythonScriptPluginPreload [File: ../../../Engine/Plugins/Experimental/PythonScriptPlugin/Binaries/Win64/UE4Editor-PythonScriptPluginPreload.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:810][713]    QuadricMeshReduction [File: ../../../Engine/Binaries/Win64/UE4Editor-QuadricMeshReduction.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:810][713]    RD [File: ../../../Engine/Plugins/Developer/RiderLink/Binaries/Win64/UE4Editor-RD.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:811][713]    RenderCore [File: ../../../Engine/Binaries/Win64/UE4Editor-RenderCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:811][713]    Renderer [File: ../../../Engine/Binaries/Win64/UE4Editor-Renderer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:811][713]    RiderBlueprintExtension [File: ../../../Engine/Plugins/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderBlueprintExtension.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:811][713]    RiderGameControlExtension [File: ../../../Engine/Plugins/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderGameControlExtension.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:812][713]    RiderLink [File: ../../../Engine/Plugins/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLink.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:812][713]    RiderLoggingExtension [File: ../../../Engine/Plugins/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLoggingExtension.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:812][713]    RiderSourceCodeAccess [File: ../../../Engine/Plugins/Developer/RiderSourceCodeAccess/Binaries/Win64/UE4Editor-RiderSourceCodeAccess.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:812][713]    RSA [File: ../../../Engine/Binaries/Win64/UE4Editor-RSA.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:812][713]    RuntimePhysXCooking [File: ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:813][713]    SandboxFile [File: ../../../Engine/Binaries/Win64/UE4Editor-SandboxFile.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:813][713]    SavgaProject [File: D:/GitHub/SavgaProject/Binaries/Win64/UE4Editor-SavgaProject-4974.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:813][713]    SceneDepthPickerMode [File: ../../../Engine/Binaries/Win64/UE4Editor-SceneDepthPickerMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:813][713]    SceneOutliner [File: ../../../Engine/Binaries/Win64/UE4Editor-SceneOutliner.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:813][713]    ScreenshotTools [File: ../../../Engine/Plugins/Tests/ScreenshotTools/Binaries/Win64/UE4Editor-ScreenshotTools.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:814][713]    Sequencer [File: ../../../Engine/Binaries/Win64/UE4Editor-Sequencer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:814][713]    SequenceRecorder [File: ../../../Engine/Binaries/Win64/UE4Editor-SequenceRecorder.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:814][713]    SequenceRecorderSections [File: ../../../Engine/Binaries/Win64/UE4Editor-SequenceRecorderSections.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:814][713]    SequencerWidgets [File: ../../../Engine/Binaries/Win64/UE4Editor-SequencerWidgets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:815][713]    SessionFrontend [File: ../../../Engine/Binaries/Win64/UE4Editor-SessionFrontend.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:815][713]    SessionServices [File: ../../../Engine/Binaries/Win64/UE4Editor-SessionServices.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:815][713]    Settings [File: ../../../Engine/Binaries/Win64/UE4Editor-Settings.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    SettingsEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-SettingsEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    ShaderFormatD3D [File: ../../../Engine/Binaries/Win64/UE4Editor-ShaderFormatD3D.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    ShaderFormatOpenGL [File: ../../../Engine/Binaries/Win64/UE4Editor-ShaderFormatOpenGL.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    ShaderFormatVectorVM [File: ../../../Engine/Binaries/Win64/UE4Editor-ShaderFormatVectorVM.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    SignalProcessing [File: ../../../Engine/Binaries/Win64/UE4Editor-SignalProcessing.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:816][713]    SignificanceManager [File: ../../../Engine/Plugins/Runtime/SignificanceManager/Binaries/Win64/UE4Editor-SignificanceManager.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SkeletalMeshEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-SkeletalMeshEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SkeletalMeshReduction [File: ../../../Engine/Plugins/Experimental/SkeletalReduction/Binaries/Win64/UE4Editor-SkeletalMeshReduction.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    Slate [File: ../../../Engine/Binaries/Win64/UE4Editor-Slate.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SlateCore [File: ../../../Engine/Binaries/Win64/UE4Editor-SlateCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SlateReflector [File: ../../../Engine/Binaries/Win64/UE4Editor-SlateReflector.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SlateRHIRenderer [File: ../../../Engine/Binaries/Win64/UE4Editor-SlateRHIRenderer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:817][713]    SmartSnapping [File: ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    Sockets [File: ../../../Engine/Binaries/Win64/UE4Editor-Sockets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SoundFields [File: ../../../Engine/Plugins/Runtime/SoundFields/Binaries/Win64/UE4Editor-SoundFields.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SourceCodeAccess [File: ../../../Engine/Binaries/Win64/UE4Editor-SourceCodeAccess.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SourceControl [File: ../../../Engine/Binaries/Win64/UE4Editor-SourceControl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SpeedTreeImporter [File: ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SQLiteCore [File: ../../../Engine/Plugins/Runtime/Database/SQLiteCore/Binaries/Win64/UE4Editor-SQLiteCore.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SQLiteSupport [File: ../../../Engine/Plugins/Runtime/Database/SQLiteSupport/Binaries/Win64/UE4Editor-SQLiteSupport.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SSL [File: ../../../Engine/Binaries/Win64/UE4Editor-SSL.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    StatsViewer [File: ../../../Engine/Binaries/Win64/UE4Editor-StatsViewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SteamVR [File: ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:818][713]    SteamVREditor [File: ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVREditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    SteamVRInput [File: ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRInput.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    SteamVRInputDevice [File: ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRInputDevice.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    StreamingFile [File: ../../../Engine/Binaries/Win64/UE4Editor-StreamingFile.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    StreamingPauseRendering [File: ../../../Engine/Binaries/Win64/UE4Editor-StreamingPauseRendering.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    StringTableEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-StringTableEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    StructViewer [File: ../../../Engine/Binaries/Win64/UE4Editor-StructViewer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    SubversionSourceControl [File: ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:819][713]    Synthesis [File: ../../../Engine/Plugins/Runtime/Synthesis/Binaries/Win64/UE4Editor-Synthesis.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    SynthesisEditor [File: ../../../Engine/Plugins/Runtime/Synthesis/Binaries/Win64/UE4Editor-SynthesisEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TargetDeviceServices [File: ../../../Engine/Binaries/Win64/UE4Editor-TargetDeviceServices.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-TargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TaskGraph [File: ../../../Engine/Binaries/Win64/UE4Editor-TaskGraph.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TcpMessaging [File: ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TemplateSequence [File: ../../../Engine/Plugins/MovieScene/TemplateSequence/Binaries/Win64/UE4Editor-TemplateSequence.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TemplateSequenceEditor [File: ../../../Engine/Plugins/MovieScene/TemplateSequence/Binaries/Win64/UE4Editor-TemplateSequenceEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:820][713]    TextureAlignMode [File: ../../../Engine/Plugins/Editor/GeometryMode/Binaries/Win64/UE4Editor-TextureAlignMode.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureCompressor [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureCompressor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatASTC [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatASTC.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatDXT [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatDXT.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatETC2 [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatETC2.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatIntelISPCTexComp [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatIntelISPCTexComp.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatPVR [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatPVR.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TextureFormatUncompressed [File: ../../../Engine/Binaries/Win64/UE4Editor-TextureFormatUncompressed.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TimeManagementEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-TimeManagementEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    Toolbox [File: ../../../Engine/Binaries/Win64/UE4Editor-Toolbox.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    ToolMenus [File: ../../../Engine/Binaries/Win64/UE4Editor-ToolMenus.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:821][713]    TraceInsights [File: ../../../Engine/Binaries/Win64/UE4Editor-TraceInsights.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    TraceServices [File: ../../../Engine/Binaries/Win64/UE4Editor-TraceServices.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    TreeMap [File: ../../../Engine/Binaries/Win64/UE4Editor-TreeMap.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    TVOSTargetPlatform [File: ../../../Engine/Binaries/Win64/IOS/UE4Editor-TVOSTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UdpMessaging [File: ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UMG [File: ../../../Engine/Binaries/Win64/UE4Editor-UMG.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UMGEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-UMGEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UndoHistory [File: ../../../Engine/Binaries/Win64/UE4Editor-UndoHistory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UnrealEd [File: ../../../Engine/Binaries/Win64/UE4Editor-UnrealEd.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    UObjectPlugin [File: ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    VariantManagerContent [File: ../../../Engine/Plugins/Enterprise/VariantManagerContent/Binaries/Win64/UE4Editor-VariantManagerContent.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:822][713]    VariantManagerContentEditor [File: ../../../Engine/Plugins/Enterprise/VariantManagerContent/Binaries/Win64/UE4Editor-VariantManagerContentEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    ViewportInteraction [File: ../../../Engine/Binaries/Win64/UE4Editor-ViewportInteraction.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    ViewportSnapping [File: ../../../Engine/Binaries/Win64/UE4Editor-ViewportSnapping.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    VirtualTexturingEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-VirtualTexturingEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    VisualStudioCodeSourceCodeAccess [File: ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    VisualStudioSourceCodeAccess [File: ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    VREditor [File: ../../../Engine/Binaries/Win64/UE4Editor-VREditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    VulkanShaderFormat [File: ../../../Engine/Binaries/Win64/UE4Editor-VulkanShaderFormat.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    WebMMedia [File: ../../../Engine/Plugins/Media/WebMMedia/Binaries/Win64/UE4Editor-WebMMedia.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:823][713]    WebMMediaEditor [File: ../../../Engine/Plugins/Media/WebMMedia/Binaries/Win64/UE4Editor-WebMMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WebMMediaFactory [File: ../../../Engine/Plugins/Media/WebMMedia/Binaries/Win64/UE4Editor-WebMMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WebMMoviePlayer [File: ../../../Engine/Plugins/Runtime/WebMMoviePlayer/Binaries/Win64/UE4Editor-WebMMoviePlayer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WebSockets [File: ../../../Engine/Binaries/Win64/UE4Editor-WebSockets.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WidgetCarousel [File: ../../../Engine/Binaries/Win64/UE4Editor-WidgetCarousel.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsClientTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsClientTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsMoviePlayer [File: ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsNoEditorTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsNoEditorTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsPlatformEditor [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsPlatformEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsPlatformFeatures [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsPlatformFeatures.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsServerTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsServerTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:824][713]    WindowsTargetPlatform [File: ../../../Engine/Binaries/Win64/UE4Editor-WindowsTargetPlatform.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:825][713]    WmfMedia [File: ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:825][713]    WmfMediaEditor [File: ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:825][713]    WmfMediaFactory [File: ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:825][713]    WorkspaceMenuStructure [File: ../../../Engine/Binaries/Win64/UE4Editor-WorkspaceMenuStructure.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:825][713]    XAudio2 [File: ../../../Engine/Binaries/Win64/UE4Editor-XAudio2.dll] [Loaded: No]
+[2021.05.23-10.32.45:825][713]    XGEController [File: ../../../Engine/Plugins/XGEController/Binaries/Win64/UE4Editor-XGEController.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:826][713]    XmlParser [File: ../../../Engine/Binaries/Win64/UE4Editor-XmlParser.dll] [Loaded: Yes]
+[2021.05.23-10.32.45:826][713]    XMPP [File: ../../../Engine/Binaries/Win64/UE4Editor-XMPP.dll] [Loaded: Yes]
+[2021.05.23-10.33.17:778][248]Cmd: module recompile SavgaProject
+[2021.05.23-10.33.17:795][248]LogHotReload: Recompiling module SavgaProject...
+[2021.05.23-10.33.17:830][248]Candidate modules for hot reload:
+[2021.05.23-10.33.17:830][248]  SavgaProject
+[2021.05.23-10.33.17:831][248]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,4398 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" -FailIfGeneratedCodeChanges "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-10.33.25:295][248]Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+Parsing headers for SavgaProjectEditor
+  Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed -FailIfGeneratedCodeChanges
+ERROR: 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp': Changes to generated code are not allowed - conflicts written to 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp.conflict'
+LogThreadingWindows: Error: Runnable thread TaskGraphThreadNP 4 crashed.
+LogWindows: Error: === Critical error: ===
+LogWindows: Error:
+LogWindows: Error: Fatal error!
+LogWindows: Error:
+LogWindows: Error: Unhandled Exception: 0xe06d7363
+LogWindows: Error:
+LogWindows: Error: [Callstack] 0x00007ffaa25a4b89 KERNELBASE.dll!UnknownFunction []
+LogWindows: Error: [Callstack] 0x00007ffa8b116480 VCRUNTIME140.dll!UnknownFunction []
+LogWindows: Error: [Callstack] 0x00007ffa0058c537 UnrealHeaderTool-CoreUObject.dll!FError::ThrowfImpl() []
+LogWindows: Error: [Callstack] 0x00007ff70e25034a UnrealHeaderTool.exe!FError::Throwf<wchar_t const * __ptr64,wchar_t const * __ptr64>() []
+LogWindows: Error: [Callstack] 0x00007ff70e2e596b UnrealHeaderTool.exe!FNativeClassHeaderGenerator::SaveHeaderIfChanged() []
+LogWindows: Error: [Callstack] 0x00007ff70e25eede UnrealHeaderTool.exe!<lambda_225ae3e0c924f16594ca321e2acb6ad0>::operator()() []
+LogWindows: Error: [Callstack] 0x00007ff70e2d05ed UnrealHeaderTool.exe!ParallelForImpl::TParallelForData<TFunctionRef<void __cdecl(int)> >::Process() []
+LogWindows: Error: [Callstack] 0x00007ff70e28ce26 UnrealHeaderTool.exe!TGraphTask<ParallelForImpl::TParallelForTask<TFunctionRef<void __cdecl(int)> > >::ExecuteTask() []
+LogWindows: Error: [Callstack] 0x00007ff9ffa7e657 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::ProcessTasks() []
+LogWindows: Error: [Callstack] 0x00007ff9ffa7eb40 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::ProcessTasksUntilQuit() []
+LogWindows: Error: [Callstack] 0x00007ff9ffa85cc5 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::Run() []
+LogWindows: Error: [Callstack] 0x00007ff9ffe71157 UnrealHeaderTool-Core.dll!FRunnableThreadWin::Run() []
+LogWindows: Error: [Callstack] 0x00007ff9ffe6a9e0 UnrealHeaderTool-Core.dll!FRunnableThreadWin::GuardedRun() []
+LogWindows: Error: [Callstack] 0x00007ffaa33c7034 KERNEL32.DLL!UnknownFunction []
+LogWindows: Error: [Callstack] 0x00007ffaa49e2651 ntdll.dll!UnknownFunction []
+LogWindows: Error:
+LogWindows: Error: Crash in runnable thread TaskGraphThreadNP 4
+
+[2021.05.23-10.33.25:298][248]CompilerResultsLog: New page: Compilation - 23 May 2021 16:33:25
+[2021.05.23-10.33.25:299][248]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-10.33.25:299][248]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-10.33.25:299][248]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed -FailIfGeneratedCodeChanges
+[2021.05.23-10.33.25:300][248]CompilerResultsLog: ERROR: 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp': Changes to generated code are not allowed - conflicts written to 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/SavgaProject.init.gen.cpp.conflict'
+[2021.05.23-10.33.25:300][248]CompilerResultsLog: LogThreadingWindows: Error: Runnable thread TaskGraphThreadNP 4 crashed.
+[2021.05.23-10.33.25:300][248]CompilerResultsLog: LogWindows: Error: === Critical error: ===
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error:
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error: Fatal error!
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error:
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error: Unhandled Exception: 0xe06d7363
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error:
+[2021.05.23-10.33.25:301][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ffaa25a4b89 KERNELBASE.dll!UnknownFunction []
+[2021.05.23-10.33.25:302][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ffa8b116480 VCRUNTIME140.dll!UnknownFunction []
+[2021.05.23-10.33.25:302][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ffa0058c537 UnrealHeaderTool-CoreUObject.dll!FError::ThrowfImpl() []
+[2021.05.23-10.33.25:302][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff70e25034a UnrealHeaderTool.exe!FError::Throwf<wchar_t const * __ptr64,wchar_t const * __ptr64>() []
+[2021.05.23-10.33.25:302][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff70e2e596b UnrealHeaderTool.exe!FNativeClassHeaderGenerator::SaveHeaderIfChanged() []
+[2021.05.23-10.33.25:303][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff70e25eede UnrealHeaderTool.exe!<lambda_225ae3e0c924f16594ca321e2acb6ad0>::operator()() []
+[2021.05.23-10.33.25:303][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff70e2d05ed UnrealHeaderTool.exe!ParallelForImpl::TParallelForData<TFunctionRef<void __cdecl(int)> >::Process() []
+[2021.05.23-10.33.25:304][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff70e28ce26 UnrealHeaderTool.exe!TGraphTask<ParallelForImpl::TParallelForTask<TFunctionRef<void __cdecl(int)> > >::ExecuteTask() []
+[2021.05.23-10.33.25:304][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff9ffa7e657 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::ProcessTasks() []
+[2021.05.23-10.33.25:305][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff9ffa7eb40 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::ProcessTasksUntilQuit() []
+[2021.05.23-10.33.25:305][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff9ffa85cc5 UnrealHeaderTool-Core.dll!FTaskThreadAnyThread::Run() []
+[2021.05.23-10.33.25:305][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff9ffe71157 UnrealHeaderTool-Core.dll!FRunnableThreadWin::Run() []
+[2021.05.23-10.33.25:305][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ff9ffe6a9e0 UnrealHeaderTool-Core.dll!FRunnableThreadWin::GuardedRun() []
+[2021.05.23-10.33.25:305][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ffaa33c7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.23-10.33.25:306][248]CompilerResultsLog: LogWindows: Error: [Callstack] 0x00007ffaa49e2651 ntdll.dll!UnknownFunction []
+[2021.05.23-10.33.25:306][248]CompilerResultsLog: LogWindows: Error:
+[2021.05.23-10.33.25:306][248]CompilerResultsLog: LogWindows: Error: Crash in runnable thread TaskGraphThreadNP 4
+[2021.05.23-10.33.25:306][248]LogMainFrame: MainFrame: Module compiling took 7.482 seconds
+[2021.05.23-10.33.46:971][414]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.33.46:980][414]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.33.56:711][702]Candidate modules for hot reload:
+[2021.05.23-10.33.56:711][702]  SavgaProject
+[2021.05.23-10.33.56:711][702]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,5339 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-10.33.56:722][702]Warning: Starting HotReload took  0.0s.
+[2021.05.23-10.34.12:829][792]CompilerResultsLog: New page: Compilation - 23 May 2021 16:34:12
+[2021.05.23-10.34.12:829][792]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-10.34.12:830][792]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-10.34.12:830][792]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.23-10.34.12:831][792]CompilerResultsLog: Reflection code generated for SavgaProjectEditor in 5,3131159 seconds
+[2021.05.23-10.34.12:832][792]CompilerResultsLog: Building SavgaProjectEditor...
+[2021.05.23-10.34.12:832][792]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.23-10.34.12:832][792]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.05.23-10.34.12:833][792]CompilerResultsLog:   [1/7] SavgaProject.init.gen.cpp
+[2021.05.23-10.34.12:833][792]CompilerResultsLog:   [2/7] CaaGameInstance.gen.cpp
+[2021.05.23-10.34.12:833][792]CompilerResultsLog:   [3/7] CaaGameInstance.cpp
+[2021.05.23-10.34.12:834][792]CompilerResultsLog:    D:\GitHub\SavgaProject\Source\SavgaProject\CaaGameInstance.cpp(25) : error C2355: 'this': yaln?zca statik olmayan ?ye i?levlerin veya statik olmayan veri ?yesi ba?lat?c?lar?n?n i?inde ba?vurulabilir
+[2021.05.23-10.34.12:834][792]CompilerResultsLog:    D:\GitHub\SavgaProject\Source\SavgaProject\CaaGameInstance.cpp(25) : error C2597: statik olmayan 'UCaaGameInstance::SavedPopupWidgetClass' ?yesine ba?vuru ge?ersiz
+[2021.05.23-10.34.12:834][792]CompilerResultsLog:   D:\GitHub\SavgaProject\Source\SavgaProject\CaaGameInstance.h(26): note: 'UCaaGameInstance::SavedPopupWidgetClass' bildirimine bak?n
+[2021.05.23-10.34.12:835][792]CompilerResultsLog:    D:\GitHub\SavgaProject\Source\SavgaProject\CaaGameInstance.cpp(25) : error C2672: 'CreateWidget': e?le?en a??r? y?klenmi? i?lev bulunamad?
+[2021.05.23-10.34.12:835][792]CompilerResultsLog:   [4/7] SaveManager.cpp
+[2021.05.23-10.34.12:836][792]LogMainFrame: MainFrame: Module compiling took 16.130 seconds
+[2021.05.23-10.34.12:836][792]Warning: HotReload failed, recompile failed
+[2021.05.23-10.40.07:504][845]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.40.07:511][845]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.40.11:166][ 64]Cmd: module recompile SavgaProject
+[2021.05.23-10.40.11:166][ 64]LogHotReload: Recompiling module SavgaProject...
+[2021.05.23-10.40.11:196][ 64]Candidate modules for hot reload:
+[2021.05.23-10.40.11:196][ 64]  SavgaProject
+[2021.05.23-10.40.11:196][ 64]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,4023 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" -FailIfGeneratedCodeChanges "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-10.40.17:238][ 64]Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+Parsing headers for SavgaProjectEditor
+  Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed -FailIfGeneratedCodeChanges
+ERROR: 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/CaaGameInstance.generated.h': Changes to generated code are not allowed - conflicts written to 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/CaaGameInstance.generated.h.conflict'
+
+[2021.05.23-10.40.17:239][ 64]CompilerResultsLog: New page: Compilation - 23 May 2021 16:40:17
+[2021.05.23-10.40.17:239][ 64]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-10.40.17:239][ 64]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-10.40.17:240][ 64]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed -FailIfGeneratedCodeChanges
+[2021.05.23-10.40.17:241][ 64]CompilerResultsLog: ERROR: 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/CaaGameInstance.generated.h': Changes to generated code are not allowed - conflicts written to 'D:/GitHub/SavgaProject/Intermediate/Build/Win64/UE4Editor/Inc/SavgaProject/CaaGameInstance.generated.h.conflict'
+[2021.05.23-10.40.17:241][ 64]LogMainFrame: MainFrame: Module compiling took 6.051 seconds
+[2021.05.23-10.40.29:578][657]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.40.29:585][657]LogSlate: Window 'Message Log' being destroyed
+[2021.05.23-10.40.47:464][784]Candidate modules for hot reload:
+[2021.05.23-10.40.47:465][784]  SavgaProject
+[2021.05.23-10.40.47:465][784]Launching UnrealBuildTool... [C:/Program Files/UnrealEngine/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SavgaProject,3069 SavgaProjectEditor Win64 Development -Project="D:/GitHub/SavgaProject/SavgaProject.uproject" "D:/GitHub/SavgaProject/SavgaProject.uproject"  -IgnoreJunk]
+[2021.05.23-10.40.47:475][784]Warning: Starting HotReload took  0.0s.
+[2021.05.23-10.41.05:042][851]CompilerResultsLog: New page: Compilation - 23 May 2021 16:41:05
+[2021.05.23-10.41.05:042][851]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\SavgaProject).
+[2021.05.23-10.41.05:043][851]CompilerResultsLog: Parsing headers for SavgaProjectEditor
+[2021.05.23-10.41.05:043][851]CompilerResultsLog:   Running UnrealHeaderTool "D:\GitHub\SavgaProject\SavgaProject.uproject" "D:\GitHub\SavgaProject\Intermediate\Build\Win64\SavgaProjectEditor\Development\SavgaProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\H_Cagatay_Sarioglu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.23-10.41.05:044][851]CompilerResultsLog: Reflection code generated for SavgaProjectEditor in 5,219629 seconds
+[2021.05.23-10.41.05:045][851]CompilerResultsLog: Building SavgaProjectEditor...
+[2021.05.23-10.41.05:045][851]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.23-10.41.05:046][851]CompilerResultsLog: Building 7 actions with 8 processes...
+[2021.05.23-10.41.05:046][851]CompilerResultsLog:   [1/7] SavgaProject.init.gen.cpp
+[2021.05.23-10.41.05:047][851]CompilerResultsLog:   [2/7] CaaGameInstance.gen.cpp
+[2021.05.23-10.41.05:047][851]CompilerResultsLog:   [3/7] CaaGameInstance.cpp
+[2021.05.23-10.41.05:047][851]CompilerResultsLog:   [4/7] SaveManager.cpp
+[2021.05.23-10.41.05:048][851]CompilerResultsLog:   [5/7] UE4Editor-SavgaProject-3069.lib
+[2021.05.23-10.41.05:048][851]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-3069.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-3069.exp nesnesi olu?turuluyor
+[2021.05.23-10.41.05:049][851]CompilerResultsLog:   [6/7] UE4Editor-SavgaProject-3069.dll
+[2021.05.23-10.41.05:049][851]CompilerResultsLog:      D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-3069.suppressed.lib kitapl??? ve D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Development\SavgaProject\UE4Editor-SavgaProject-3069.suppressed.exp nesnesi olu?turuluyor
+[2021.05.23-10.41.05:051][851]CompilerResultsLog:   [7/7] SavgaProjectEditor.target
+[2021.05.23-10.41.05:051][851]CompilerResultsLog: Total time in Parallel executor: 10,72 seconds
+[2021.05.23-10.41.05:051][851]CompilerResultsLog: Total execution time: 17,12 seconds
+[2021.05.23-10.41.05:052][851]LogMainFrame: MainFrame: Module compiling took 17.592 seconds
+[2021.05.23-10.41.05:114][851]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.23-10.41.05:115][851]LogWindows: Windows GetLastError: İşlem başarıyla tamamlandı. (0)

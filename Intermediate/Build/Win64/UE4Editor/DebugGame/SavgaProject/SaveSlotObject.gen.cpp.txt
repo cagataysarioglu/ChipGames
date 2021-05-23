@@ -1,7 +1,7 @@
 D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\DebugGame\SavgaProject\Definitions.SavgaProject.h
-D:\GitHub\SavgaProject\Source\SavgaProject\CaaGameInstance.h
-D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\CaaGameInstance.generated.h
-D:\GitHub\SavgaProject\Source\SavgaProject\SaveManager.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\SavgaProject\Source\SavgaProject/SaveSlotObject.h
 D:\GitHub\SavgaProject\Source\SavgaProject\SaveMetadata.h
 D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveMetadata.generated.h
 C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
@@ -10,4 +10,4 @@ C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Math/Uni
 C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
 C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
 C:\Program Files\UnrealEngine\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
-D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveManager.generated.h
+D:\GitHub\SavgaProject\Intermediate\Build\Win64\UE4Editor\Inc\SavgaProject\SaveSlotObject.generated.h

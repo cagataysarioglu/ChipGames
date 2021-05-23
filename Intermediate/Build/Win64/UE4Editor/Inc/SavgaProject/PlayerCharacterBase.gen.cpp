@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacterBase() {}
 	SAVGAPROJECT_API UClass* Z_Construct_UClass_APlayerCharacterBase();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_SavgaProject();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 // End Cross Module References
 	void APlayerCharacterBase::StaticRegisterNativesAPlayerCharacterBase()
 	{
@@ -31,6 +32,10 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacterBase() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Location_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_Location;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MaxHealth_MetaData[];
 #endif
@@ -71,50 +76,58 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacterBase() {}
 	};
 #endif
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_Location_MetaData[] = {
+		{ "Category", "SavedVariables" },
 		{ "Comment", "// The properties of player's status and inventory\n" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 		{ "ToolTip", "The properties of player's status and inventory" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, MaxHealth), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData)) };
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_Location = { "Location", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, Location), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_Location_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_Location_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData[] = {
+		{ "Category", "SavedVariables" },
+		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, MaxHealth), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+		{ "Category", "SavedVariables" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth = { "CurrentHealth", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, CurrentHealth), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth = { "CurrentHealth", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, CurrentHealth), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+		{ "Category", "SavedVariables" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack = { "HealthPack", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, HealthPack), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack = { "HealthPack", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, HealthPack), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+		{ "Category", "SavedVariables" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey = { "DoorKey", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, DoorKey), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey = { "DoorKey", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, DoorKey), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_DoorKey_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+		{ "Category", "SavedVariables" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem = { "QuestItem", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, QuestItem), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem = { "QuestItem", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, QuestItem), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestItem_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText_MetaData[] = {
-		{ "Category", "PlayerCharacterBase" },
+		{ "Category", "SavedVariables" },
 		{ "ModuleRelativePath", "PlayerCharacterBase.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText = { "QuestText", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, QuestText), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText_MetaData)) };
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText = { "QuestText", nullptr, (EPropertyFlags)0x0010000001000005, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayerCharacterBase, QuestText), METADATA_PARAMS(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_QuestText_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayerCharacterBase_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_Location,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_MaxHealth,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_CurrentHealth,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCharacterBase_Statics::NewProp_HealthPack,
@@ -149,7 +162,7 @@ void EmptyLinkFunctionForGeneratedCodePlayerCharacterBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayerCharacterBase, 1372187042);
+	IMPLEMENT_CLASS(APlayerCharacterBase, 3133189885);
 	template<> SAVGAPROJECT_API UClass* StaticClass<APlayerCharacterBase>()
 	{
 		return APlayerCharacterBase::StaticClass();
